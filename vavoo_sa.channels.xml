@@ -10,7 +10,7 @@
   <channel id="alaraby.qa">4097:0:19:5015:802:E0:FF0000:0:0:0:</channel><!-- ALARABY TV 2 .c -->
   <channel id="AlmaTV.it">4097:0:1:FA3:107:217C:DDE0000:0:0:0:</channel><!-- ALMAGD TV .c -->
   <channel id="AMC.cz">4097:0:19:177E:AF6:BB:E080000:0:0:0:</channel><!-- AMC .c -->
-  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET .c -->
+  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET -HD .b -->
   <channel id="AXN.cz">4097:0:1:2AFE:B:1111:E080000:0:0:0:</channel><!-- AXN .c -->
   <channel id="BabyTV.hr">4097:0:1:184:9:3:130000:0:0:0:</channel><!-- BABY TV .c -->
   <channel id="BBCEarth.cz">4097:0:19:7812:2C3:600:E080000:0:0:0:</channel><!-- BBC EARTH .c -->
@@ -28,7 +28,7 @@
   <channel id="DiscoveryChannel.cz">4097:0:19:178E:AF6:BB:E080000:0:0:0:</channel><!-- DISCOVERY CHANNEL .c -->
   <channel id="DiscoveryPlus1.it">4097:0:1:2C3A:189C:FBFF:820000:0:0:0:</channel><!-- DISCOVERY HD .b -->
   <channel id="InvestigationDiscoveryXTRA.gr">4097:0:1:41E:7:AA:5A0000:0:0:0:</channel><!-- DISCOVERY ID HD .b -->
-  <channel id="Disney.bg">4097:0:1:82:251C:13E:820000:0:0:0:</channel><!-- DISNEY HD .b -->
+  <channel id="Disney.bg">4097:0:1:82:251C:13E:820000:0:0:0:</channel><!-- DISNEY .b -->
   <channel id="DisneyJunior.ro">4097:0:1:D7A:C:1:E080000:0:0:0:</channel><!-- DISNEY JUNIOR HD .b -->
   <channel id="DisneyXD.no">4097:0:1:1180:18:56:300000:0:0:0:</channel><!-- DISNEY XD .b -->
   <channel id="DubaiOne.ae">4097:0:19:3:1FC:2BE:1040000:0:0:0:</channel><!-- DUBAI ONE .b -->
@@ -64,6 +64,7 @@
   <channel id="ParamountNetwork.cz">4097:0:16:2B0F:AFB:BB:E080000:0:0:0:</channel><!-- PARAMOUNT NETWORK .c -->
   <channel id="SkyNwsArabia.nws">4097:0:1:252C:13EF:13E:820000:0:0:0:</channel><!-- SKY NEWS ARABIC HD .b -->
   <channel id="FOX.bg">4097:0:1:20:25E4:13E:820000:0:0:0:</channel><!-- STAR CHANNEL .b -->
+  <channel id="StarTV.ch">4097:0:19:23F2:5E:1:FFFF0000:0:0:0:</channel><!-- STAR TVE .c -->
   <channel id="SciFi.hr">4097:0:1:3E20:2EE0:13E:820000:0:0:0:</channel><!-- SYFY .c -->
   <channel id="TakbeerTV.uk">4097:0:1:D381:830:2:11A0000:0:0:0:</channel><!-- TAKBEER TV .b -->
   <channel id="TCM.uk">4097:0:1:C7B3:817:2:11A0000:0:0:0:</channel><!-- TCM .c -->

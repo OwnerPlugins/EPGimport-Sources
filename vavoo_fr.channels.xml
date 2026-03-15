@@ -34,19 +34,18 @@
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG FHD .s -->
   <channel id="CNews.fr">4097:0:1:13C:3E1C:13F:820000:0:0:0:</channel><!-- C NEWS FHD .s -->
   <channel id="CStar.fr">4097:0:1:1A1:26AC:13F:820000:0:0:0:</channel><!-- C STAR FHD .s -->
-  <channel id="Canal9.ch">4097:0:1:1:1:41:0:0:0:0:HTTP%3A//:</channel><!-- CANAL 9 .c -->
   <channel id="CanalAlphaJU.ch">4097:0:1:20:1:41:0:0:0:0:HTTP%3A//:</channel><!-- CANAL ALPHA JURA .c -->
   <channel id="CanalJ.fr">4097:0:19:2018:430:1:C00000:0:0:0:</channel><!-- CANAL J FHD .s -->
   <channel id="CanalplusSeries.fr">4097:0:19:2266:438:1:C00000:0:0:0:</channel><!-- CANAL+ SERIES HD .s -->
   <channel id="C+Sport2SK.sk">4097:0:19:2B06:AFB:BB:E080000:0:0:0:</channel><!-- CANAL+ SPORT HD .b -->
-  <channel id="CanalPlusBoxOffice.fr">4097:0:19:200D:430:1:C00000:0:0:0:</channel><!-- CANAL+ BOX OFFICE .s -->
+  <channel id="CanalPlusBoxOffice.fr">4097:0:19:200D:430:1:C00000:0:0:0:</channel><!-- CANAL+ BOX OFFICE .c -->
   <channel id="CanalPlusCinema.fr">4097:0:19:2263:438:1:C00000:0:0:0:</channel><!-- CANAL+ CINEMA HD .s -->
   <channel id="CanalPlusDocs.fr">4097:0:19:22CE:434:1:C00000:0:0:0:</channel><!-- CANAL+ DOCS HD .s -->
   <channel id="CanalPlusFoot.fr">4097:0:19:2271:438:1:C00000:0:0:0:</channel><!-- CANAL+ FOOT FHD .s -->
   <channel id="CanalPlusGrandEcran.fr">4097:0:19:207A:432:1:C00000:0:0:0:</channel><!-- CANAL+ GRAND ECRAN FHD .s -->
   <channel id="CanalPlusKids.fr">4097:0:19:2265:438:1:C00000:0:0:0:</channel><!-- CANAL+ KIDS HD .s -->
-  <channel id="CanalPlusLive1.fr">4097:0:19:2010:430:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 16 .c -->
   <channel id="CanalPlusLive10.fr">4097:0:19:207C:432:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 10 .c -->
+  <channel id="CanalPlusLive1.fr">4097:0:19:2010:430:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 13 .c -->
   <channel id="CanalPlusLive2.fr">4097:0:19:264D:460:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 2 .c -->
   <channel id="CanalPlusLive3.fr">4097:0:19:24C4:43C:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 3 .c -->
   <channel id="CanalPlusLive4.fr">4097:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 4 .c -->
@@ -55,6 +54,7 @@
   <channel id="CanalPlusLive7.fr">4097:0:19:22D7:434:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 7 .c -->
   <channel id="CanalPlusLive8.fr">4097:0:19:24C5:43C:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 8 .c -->
   <channel id="CanalPlusLive9.fr">4097:0:19:232B:442:1:C00000:0:0:0:</channel><!-- CANAL+ LIVE 9 .c -->
+  <channel id="CANALplus.fr">4097:0:19:2261:438:1:C00000:0:0:0:</channel><!-- CANAL+ PL .s -->
   <channel id="C+Sport2.cz">4097:0:19:1F4B:CA1:3:EB0000:0:0:0:</channel><!-- CANAL+ SPORT 2 .s -->
   <channel id="CanalPlusSport360.fr">4097:0:19:24C8:43C:1:C00000:0:0:0:</channel><!-- CANAL+ SPORT 360 .s -->
   <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK .b -->
@@ -71,7 +71,7 @@
   <channel id="OCS.fr">4097:0:19:2456:440:1:C00000:0:0:0:</channel><!-- CINE+ PREMIER HD .s -->
   <channel id="ClubbingTV.eu">4097:0:16:6A9:11:1:FFFF0000:0:0:0:</channel><!-- CLUBBING TV .c -->
   <channel id="ComediePlus.fr">4097:0:19:22D4:434:1:C00000:0:0:0:</channel><!-- COMEDIE+ HD .s -->
-  <channel id="ComedyCentral.ro">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .s -->
+  <channel id="ComedyCentral.fr">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .s -->
   <channel id="CrimeDistrict.fr">4097:0:1:1C9:26AC:13F:820000:0:0:0:</channel><!-- CRIME DISTRICT .s -->
   <channel id="dazn1.de">4097:0:19:C3A9:271A:F001:FFFF0000:0:0:0:</channel><!-- DAZN 1 .s -->
   <channel id="dazn2.de">4097:0:19:C3AA:2721:F001:FFFF0000:0:0:0:</channel><!-- DAZN 2 .c -->
@@ -87,8 +87,8 @@
   <channel id="E!.ro">4097:0:1:3EF:1:1:E08318F:0:0:0:</channel><!-- E! ENTERTAINMENT .s -->
   <channel id="Eurochannel.eu">4097:0:19:68:1:16E:A00000:0:0:0:</channel><!-- EURO CHANNEL .c -->
   <channel id="Euronews.nws">4097:0:1:4F:C:3:130000:0:0:0:</channel><!-- EURONEWS .s -->
-  <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 HD .b -->
-  <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 HD .b -->
+  <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 FHD .s -->
+  <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 .s -->
   <channel id="FashionTV.eu">4097:0:16:772E:2C1:600:E080000:0:0:0:</channel><!-- FASHION TV FHD .s -->
   <channel id="France2.fr">4097:0:1:12E:3E1C:13F:820000:0:0:0:</channel><!-- FRANCE 2 HD .b -->
   <channel id="France24fr.fr">4097:0:1:6F:E:3:130000:0:0:0:</channel><!-- FRANCE 24 .s -->
@@ -96,7 +96,7 @@
   <channel id="France4.fr">4097:0:1:13A:3E1C:13F:820000:0:0:0:</channel><!-- FRANCE 4 .s -->
   <channel id="France5.fr">4097:0:1:131:3E1C:13F:820000:0:0:0:</channel><!-- FRANCE 5 HD .b -->
   <channel id="Franceinfo.fr">4097:0:1:1A3:26AC:13F:820000:0:0:0:</channel><!-- FRANCEINFO .c -->
-  <channel id="GameOne.fr">4097:0:19:24C7:43C:1:C00000:0:0:0:</channel><!-- GAME ONE +1 .c -->
+  <channel id="GameOne.fr">4097:0:19:24C7:43C:1:C00000:0:0:0:</channel><!-- GAME ONE .s -->
   <channel id="GolfChannel.cz">4097:0:16:1784:AF6:BB:E080000:0:0:0:</channel><!-- GOLF+ CHANNEL FHD .s -->
   <channel id="Golfplus.fr">4097:0:19:2207:44C:1:C00000:0:0:0:</channel><!-- GOLF+ .c -->
   <channel id="Gulli.fr">4097:0:1:1A2:26AC:13F:820000:0:0:0:</channel><!-- GULLI FHD .s -->
@@ -128,7 +128,6 @@
   <channel id="MGG_TV.fr">4097:0:16:6AD:11:1:FFFF0000:0:0:0:</channel><!-- MGG TV .s -->
   <channel id="MotorVision.eu">4097:0:19:1CC2:19:46:E080000:0:0:0:</channel><!-- MOTORVISION TV .c -->
   <channel id="MTV.dk">4097:0:16:1EF3:19:46:E080000:0:0:0:</channel><!-- MTV FHD .s -->
-  <channel id="MTV00s.eu">4097:0:16:1EF4:19:46:E080000:0:0:0:</channel><!-- MTV 00S .c -->
   <channel id="MTVHits.eu">4097:0:1:1FC:1B:2C0:E080000:0:0:0:</channel><!-- MTV HITS SD .b -->
   <channel id="MULTISPORTS2.fr">4097:0:19:22D1:434:1:C00000:0:0:0:</channel><!-- MULTISPORTS 2 HD .b -->
   <channel id="MULTISPORTS4.fr">4097:0:19:220B:44C:1:C00000:0:0:0:</channel><!-- MULTISPORTS 4 HD .b -->
@@ -153,7 +152,7 @@
   <channel id="PIWI.fr">4097:0:19:226B:438:1:C00000:0:0:0:</channel><!-- PIWI+ HD .s -->
   <channel id="PlanetePlusAventure.fr">4097:0:19:2208:44C:1:C00000:0:0:0:</channel><!-- PLANETE+ AVENTURE HD .s -->
   <channel id="PolarPlus.fr">4097:0:19:206E:432:1:C00000:0:0:0:</channel><!-- POLAR+ HD .s -->
-  <channel id="RFMTV.fr">4097:0:19:2202:44C:1:C00000:0:0:0:</channel><!-- RFM TV SD .b -->
+  <channel id="RFMTV.fr">4097:0:19:2202:44C:1:C00000:0:0:0:</channel><!-- RFM TV HD .b -->
   <channel id="MTVMusic.it">4097:0:1:594:19C8:FBFF:820000:0:0:0:</channel><!-- RFM TV MUSIC .s -->
   <channel id="RMCdecouverte.fr">4097:0:1:144:3E1C:13F:820000:0:0:0:</channel><!-- RMC DECOUVERTE .s -->
   <channel id="RMCSport1.fr">4097:0:19:514:5208:55F:DDE0000:0:0:0:</channel><!-- RMC SPORT 9 .s -->
@@ -196,6 +195,5 @@
   <channel id="W-Sport.pt">4097:0:1:1BBD:47:36:FFFF0000:0:0:0:</channel><!-- W-SPORT .c -->
   <channel id="W9.fr">4097:0:1:135:3E1C:13F:820000:0:0:0:</channel><!-- W9 HD .s -->
   <channel id="WarnerTV.ro">4097:0:1:5AA:C:1:E080000:0:0:0:</channel><!-- WARNER TV .s -->
-  <channel id="WarnerTVnext.fr">4097:0:16:6B3:11:1:FFFF0000:0:0:0:</channel><!-- WARNER TV NEXT .c -->
   <channel id="IslamTV.uk">4097:0:1:CFA2:83A:2:11A0000:0:0:0:</channel><!-- XILAM TV .c -->
 </channels>
