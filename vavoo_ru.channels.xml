@@ -4,14 +4,12 @@
   <channel id="OKanal.ba">4097:0:1:2EF:2D08:16E:A00000:0:0:0:</channel><!-- 5 KANAL .s -->
   <channel id="AMC.cz">4097:0:19:177E:AF6:BB:E080000:0:0:0:</channel><!-- AMC .s -->
   <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET HD .b -->
-  <channel id="ArenaTV.svn">4097:0:19:780:C6D4:16E:A00000:0:0:0:</channel><!-- REN TV .s -->
   <channel id="BBCWorldNews.nws">4097:0:16:1EE8:3:46:E080000:0:0:0:</channel><!-- BBC WORLD NEWS .b -->
   <channel id="BollywoodTV.ro">4097:0:1:79E7:2C8:600:E080000:0:0:0:</channel><!-- BOLLYWOOD HD .b -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .s -->
   <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK .b -->
   <channel id="CartoonNetwork.cz">4097:0:1:797E:2C7:600:E080000:0:0:0:</channel><!-- CARTOON NETWORK .s -->
   <channel id="CineMAX.ro">4097:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- CINEMA .s -->
-  <channel id="CNN.nws">4097:0:16:1EE3:19:46:E080000:0:0:0:</channel><!-- CNN .s -->
   <channel id="ComedyPlus1.it">4097:0:1:38C5:2008:FBFF:820000:0:0:0:</channel><!-- COMEDY HD .b -->
   <channel id="DaVinciLearning.bg">4097:0:1:1393:2710:13E:820000:0:0:0:</channel><!-- DA VINCI .b -->
   <channel id="DaVinciLearning.bg">4097:0:1:66:E:3:130000:0:0:0:</channel><!-- DA VINCI LEARNING .s -->
@@ -57,6 +55,7 @@
   <channel id="ONEChannel.gr">4097:0:1:1BC5:17D4:13E:820000:0:0:0:</channel><!-- ONE CHANNEL .s -->
   <channel id="ParamountNetwork.cz">4097:0:16:7920:2C6:600:E080000:0:0:0:</channel><!-- PARAMOUNT CHANNEL .s -->
   <channel id="BKTV.rs">4097:0:1:547:75FB:16E:A00000:0:0:0:</channel><!-- RBK TV .s -->
+  <channel id="ArenaTV.svn">4097:0:19:780:C6D4:16E:A00000:0:0:0:</channel><!-- REN TV .s -->
   <channel id="RetroMusic.cz">4097:0:16:3C3A:C90:3:EB0000:0:0:0:</channel><!-- RETRO MUSIC TV .s -->
   <channel id="RTCG.svn">4097:0:16:9B:2:40:A00000:0:0:0:</channel><!-- RTG .s -->
   <channel id="RTRPlaneta.rs">4097:0:1:18E:9:3:130000:0:0:0:</channel><!-- RTR PLANETA .s -->
@@ -75,5 +74,5 @@
   <channel id="ViasatNature.cz">4097:0:16:177C:AF6:BB:E080000:0:0:0:</channel><!-- VIASAT NATURE HD .b -->
   <channel id="ViasatSportExtra.se">4097:0:19:1D22:4F:46:E080000:0:0:0:</channel><!-- VIASAT SPORT EAST .s -->
   <channel id="ViasatSport.se">4097:0:19:1D73:3E:46:E080000:0:0:0:</channel><!-- VIASAT SPORT HD .b -->
-  <channel id="ZeeTV.uk">4097:0:19:CF9D:83A:2:11A0000:0:0:0:</channel><!-- ZEE TV .b -->
+  <channel id="ZeeTV.uk">4097:0:19:CF9D:83A:2:11A0000:0:0:0:</channel><!-- ZEE TV .s -->
 </channels>

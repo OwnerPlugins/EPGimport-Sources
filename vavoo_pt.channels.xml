@@ -8,7 +8,7 @@
   <channel id="AMCBreak.pt">4097:0:1:138C:30:36:CE40000:0:0:0:</channel><!-- AMC BREAK .c -->
   <channel id="AMCCrime.pt">4097:0:1:1795:26:36:CE40000:0:0:0:</channel><!-- AMC CRIME .c -->
   <channel id="AXN.cz">4097:0:1:2AFE:B:1111:E080000:0:0:0:</channel><!-- AXN .c -->
-  <channel id="AXNMovies.pt">4097:0:1:13A6:27:36:CE40000:0:0:0:</channel><!-- AXN MOVIES HD .b -->
+  <channel id="AXNMovies.pt">4097:0:1:13A6:27:36:CE40000:0:0:0:</channel><!-- AXN MOVIES .c -->
   <channel id="AXNWhite.cz">4097:0:1:2AFA:B:1111:E080000:0:0:0:</channel><!-- AXN WHITE HD .b -->
   <channel id="BabyTV.hr">4097:0:1:184:9:3:130000:0:0:0:</channel><!-- BABY TV .c -->
   <channel id="BTVMulticamaras.pt">4097:0:1:17C3:26:36:CE40000:0:0:0:</channel><!-- BENFICA TV .b -->
@@ -28,15 +28,7 @@
   <channel id="cazaepesca.pt">4097:0:1:32F:2F:36:CE40000:0:0:0:</channel><!-- CAZA Y PESCA .c -->
   <channel id="CBSReality+1.uk">4097:0:1:D7B1:840:2:11A0000:0:0:0:</channel><!-- CBS REALITY .b -->
   <channel id="CBSReality.eu">4097:0:1:78B9:2C5:600:E080000:0:0:0:</channel><!-- CBS REALITY .c -->
-  <channel id="Cinemundo.pt">4097:0:1:6E:65:53:CE40000:0:0:0:</channel><!-- CINEMUNDO .b -->
-  <channel id="CMTV.pt">4097:0:1:453:65:53:CE40000:0:0:0:</channel><!-- CM TV .c -->
-  <channel id="CNBC.nws">4097:0:16:1C57:A:46:E080000:0:0:0:</channel><!-- CNBC .c -->
-  <channel id="CNNPortugal.pt">4097:0:1:85:65:53:CE40000:0:0:0:</channel><!-- CNN PORTUGAL .c -->
-  <channel id="CrimeDistrict.fr">4097:0:1:1C9:26AC:13F:820000:0:0:0:</channel><!-- CRIME DISTRICT .c -->
-  <channel id="Crime+InvPlus1.uk">4097:0:1:C4CC:811:2:11A0000:0:0:0:</channel><!-- CRIME INVISTIGATION .b -->
-  <channel id="CrimeInvestigation.gr">4097:0:1:1BC9:17D4:13E:820000:0:0:0:</channel><!-- CRIME+ INVESTIGATION .c -->
-  <channel id="dazn1.de">4097:0:19:C3A9:271A:F001:FFFF0000:0:0:0:</channel><!-- DAZN 1 .c -->
-  <channel id="dazn2.de">4097:0:19:C3AA:2721:F001:FFFF0000:0:0:0:</channel><!-- DAZN 2 .c -->
+  <channel id="Cinemundo.pt">4097:0:1:6E:65:53:CE40000:0:0:0:</channel><!-- CINE MUNDO .c -->
   <channel id="DiscoveryPlus1.it">4097:0:1:2C3A:1AF4:FBFF:820000:0:0:0:</channel><!-- DISCOVERY CHANNEL HD .b -->
   <channel id="DisneyChannelPlus1.fr">4097:0:1:125F:1B2:0:A988:0:0:0:</channel><!-- DISNEY CHANNEL .b -->
   <channel id="DisneyJunior.ro">4097:0:1:D7A:C:1:E080000:0:0:0:</channel><!-- DISNEY JUNIOR .b -->
@@ -49,7 +41,7 @@
   <channel id="elevensports3.pt">4097:0:1:17BA:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 3 HD .b -->
   <channel id="elevensports4.pt">4097:0:1:13B0:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 4 HD .b -->
   <channel id="elevensports5.pt">4097:0:1:13B1:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 5 HD .b -->
-  <channel id="elevensports6.pt">4097:0:1:17BB:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORT 6 .b -->
+  <channel id="elevensports6.pt">4097:0:1:17BB:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 6 HD .b -->
   <channel id="Euronews.nws">4097:0:1:4F:C:3:130000:0:0:0:</channel><!-- EURONEWS .c -->
   <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 HD .b -->
   <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 .b -->
@@ -108,7 +100,7 @@
   <channel id="SportTV6.pt">4097:0:1:17B6:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 6 .c -->
   <channel id="SportTVplus.pt">4097:0:1:138D:30:36:CE40000:0:0:0:</channel><!-- SPORT TV + .c -->
   <channel id="sporttv1.pt">4097:0:1:17C0:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 1 HD .b -->
-  <channel id="sporttv2.pt">4097:0:1:17C1:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 2 .c -->
+  <channel id="sporttv2.pt">4097:0:1:17C1:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 2 HD .b -->
   <channel id="sporttv3.pt">4097:0:1:17C2:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 3 HD .b -->
   <channel id="sporttv4.pt">4097:0:1:135:26:36:CE40000:0:0:0:</channel><!-- SPORT TV 4 HD .b -->
   <channel id="sporttv5.pt">4097:0:1:137:2B:36:FFFF0000:0:0:0:</channel><!-- SPORT TV 5 HD .b -->

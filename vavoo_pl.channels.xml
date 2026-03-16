@@ -10,6 +10,7 @@
   <channel id="BBCEarth.cz">4097:0:19:7812:2C3:600:E080000:0:0:0:</channel><!-- BBC EARTH HD .b -->
   <channel id="BBCFirst.nl">4097:0:19:52B0:C99:3:EB0000:0:0:0:</channel><!-- BBC FIRST .c -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .c -->
+  <channel id="BoomerangPlus1.it">4097:0:1:2C4F:189C:FBFF:820000:0:0:0:</channel><!-- BOOMERANG HD .b -->
   <channel id="CanalJ.fr">4097:0:19:2018:430:1:C00000:0:0:0:</channel><!-- CANAL HD .b -->
   <channel id="C+Sport2.cz">4097:0:19:1F4B:CA1:3:EB0000:0:0:0:</channel><!-- CANAL+ SPORT 2 .c -->
   <channel id="C+Sport2SK.sk">4097:0:19:2B06:AFB:BB:E080000:0:0:0:</channel><!-- CANAL+ SPORT 5 .c -->
@@ -21,7 +22,6 @@
   <channel id="Cartoonito.ro">4097:0:1:77F6:2C3:600:E080000:0:0:0:</channel><!-- CARTOONITO .c -->
   <channel id="CBeebies.uk">4097:0:19:4700:1000:1:D7A0000:0:0:0:</channel><!-- CBEEBIES .c -->
   <channel id="CBSReality.eu">4097:0:1:78B9:2C5:600:E080000:0:0:0:</channel><!-- CBS REALITY .c -->
-  <channel id="CBSReality+1.uk">4097:0:1:D7B1:840:2:11A0000:0:0:0:</channel><!-- CBS REALITY HD .b -->
   <channel id="CineMAX.ro">4097:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- CINEMAX .c -->
   <channel id="Cinemax2.cz">4097:0:19:1B66:AF7:BB:E080000:0:0:0:</channel><!-- CINEMAX HD .b -->
   <channel id="ComedyCentral.ro">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .c -->
@@ -33,6 +33,7 @@
   <channel id="DiscoveryScience.be">4097:0:1:C80:2:5E:E080000:0:0:0:</channel><!-- DISCOVERY SCIENCE HD .b -->
   <channel id="DTX.cz">4097:0:1:FAB:AF4:BB:E080000:0:0:0:</channel><!-- DISCOVERY TURBO XTRA .c -->
   <channel id="DisneyChannelPlus1.fr">4097:0:1:125F:1B2:0:A988:0:0:0:</channel><!-- DISNEY CHANNEL HD .b -->
+  <channel id="DisneyJunior.ro">4097:0:1:D7A:C:1:E080000:0:0:0:</channel><!-- DISNEY JUNIOR .b -->
   <channel id="DisneyXD.no">4097:0:1:1180:18:56:300000:0:0:0:</channel><!-- DISNEY XD .b -->
   <channel id="E!Entertainment.gr">4097:0:1:452:1:AA:5A0000:0:0:0:</channel><!-- E! .c -->
   <channel id="E!.ro">4097:0:1:3EF:1:1:E08318F:0:0:0:</channel><!-- E! ENTERTAINMENT .b -->
@@ -43,10 +44,11 @@
   <channel id="EpicDrama.cz">4097:0:19:1B63:AF7:BB:E080000:0:0:0:</channel><!-- EPIC DRAMA HD .b -->
   <channel id="SKAT.bg">4097:0:1:11:3:1:1860000:0:0:0:</channel><!-- ESKA TV .c -->
   <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 HD .b -->
-  <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 .c -->
+  <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 HD .b -->
   <channel id="ExtremeSports.eu">4097:0:1:8F:251C:13E:820000:0:0:0:</channel><!-- EXTREME SPORTS HD .b -->
+  <channel id="Fightbox.eu">4097:0:1:252:19:3:130000:0:0:0:</channel><!-- FIGHT BOX HD .b -->
   <channel id="Fightklub.bg">4097:0:19:DE:2648:D5:820000:0:0:0:</channel><!-- FIGHTKLUB HD .b -->
-  <channel id="Fightbox.eu">4097:0:16:759B:2BD:600:E080000:0:0:0:</channel><!-- FIGHTBOX .c -->
+  <channel id="Fightbox.eu">4097:0:16:759B:2BD:600:E080000:0:0:0:</channel><!-- FIGHTBOX HD .b -->
   <channel id="FocusTV.be">4097:0:19:649:10:1:FFFF0000:0:0:0:</channel><!-- FOKUS TV .c -->
   <channel id="FoodNetwork.ro">4097:0:1:3F9:1:1:E08318F:0:0:0:</channel><!-- FOOD NETWORK .c -->
   <channel id="FoodNetworkPlus1.uk">4097:0:1:B60:7F3:2:11A0000:0:0:0:</channel><!-- FOOD NETWORK HD .b -->
@@ -63,6 +65,7 @@
   <channel id="InvestigationDiscovery.dk">4097:0:16:1C8F:A:46:E080000:0:0:0:</channel><!-- INVESTIGATION DISCOVERY .c -->
   <channel id="KinoTV.hr">4097:0:16:723:C5A8:16E:A00000:0:0:0:</channel><!-- KINO TV HD .b -->
   <channel id="MTV00s.eu">4097:0:16:1EF4:19:46:E080000:0:0:0:</channel><!-- MTV 00S .c -->
+  <channel id="MTVRocks.dk">4097:0:1:6E0:85C:FE00:FFFF0000:0:0:0:</channel><!-- MTV ROCKS .b -->
   <channel id="NatGeo.bg">4097:0:19:13C:2648:13E:820000:0:0:0:</channel><!-- NAT GEO .c -->
   <channel id="NatGeoWild.cz">4097:0:19:7666:2BF:600:E080000:0:0:0:</channel><!-- NAT GEO WILD .c -->
   <channel id="NatGeoWild.se">4097:0:19:438:37:A027:FFFF0000:0:0:0:</channel><!-- NATIONAL GEOGRAPHIC WILD .b -->
