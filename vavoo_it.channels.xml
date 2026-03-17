@@ -70,7 +70,6 @@
   <channel id="NatGeo.it">4097:0:1:24:2580:D5:820000:0:0:0:</channel><!-- NAT GEO .s -->
   <channel id="NatGeoWild.it">4097:0:1:195:1518:13E:820000:0:0:0:</channel><!-- NAT GEO WILD .s -->
   <channel id="NickJr.it">4097:0:1:3:1964:13E:820000:0:0:0:</channel><!-- NICK JR .c -->
-  <channel id="NickelodeonINT.cz">4097:0:1:203:1B:2C0:E080000:0:0:0:</channel><!-- NICKELODEON .c -->
   <channel id="Nove.it">4097:0:19:10E3:3E8:13E:820000:0:0:0:</channel><!-- NOVE .c -->
   <channel id="Orler.it">4097:0:1:232D:2328:13E:820000:0:0:0:</channel><!-- ORLER TV .c -->
   <channel id="ParoleDiVita.it">4097:0:1:1FE:384:13E:820000:0:0:0:</channel><!-- PAROLE DI VITA .c -->
@@ -111,12 +110,11 @@
   <channel id="SkyCinemaDue.it">4097:0:19:DEC:15E0:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA DUE .s -->
   <channel id="SkyCinemaFamily.it">4097:0:19:1C57:2008:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA FAMILY .s -->
   <channel id="SkyCinemaSuspense.it">4097:0:19:2B27:2008:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA SUSPENSE .s -->
-  <channel id="SkyUno.it">4097:0:19:2505:1838:FBFF:820000:0:0:0:</channel><!-- SKY UNO .s -->
+  <channel id="SkyCinemaUno.it">4097:0:19:2505:1838:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA UNO .s -->
   <channel id="SkyCinemaUnoPlus24.it">4097:0:19:598:19C8:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA UNO +24 .s -->
   <channel id="SkyCrime.it">4097:0:19:1020:2260:FBFF:820000:0:0:0:</channel><!-- SKY CRIME .c -->
   <channel id="SkyDocumentaries.it">4097:0:19:2DB1:2260:FBFF:820000:0:0:0:</channel><!-- SKY DOCUMENTARIES .c -->
   <channel id="SkyInvestigation.it">4097:0:19:2DA6:15E0:FBFF:820000:0:0:0:</channel><!-- SKY INVESTIGATION .c -->
-  <channel id="SkyNature.it">4097:0:19:2DAF:2008:FBFF:820000:0:0:0:</channel><!-- SKY NATURE .c -->
   <channel id="SkySerie.it">4097:0:19:2DA4:15E0:FBFF:820000:0:0:0:</channel><!-- SKY SERIE .c -->
   <channel id="SkySport254.it">4097:0:19:2B1B:1644:FBFF:820000:0:0:0:</channel><!-- SKY SPORT 24 .c -->
   <channel id="SkySportArena.it">4097:0:19:2B10:15E0:FBFF:820000:0:0:0:</channel><!-- SKY SPORT ARENA .s -->
@@ -128,9 +126,7 @@
   <channel id="SkySportNBA.it">4097:0:19:1E54:15E0:FBFF:820000:0:0:0:</channel><!-- SKY SPORT NBA .s -->
   <channel id="SkySportTennis.it">4097:0:19:DE7:15E0:FBFF:820000:0:0:0:</channel><!-- SKY SUPER TENNIS .s -->
   <channel id="SkySportUno.it">4097:0:19:2B0F:1838:FBFF:820000:0:0:0:</channel><!-- SKY SPORT UNO .s -->
-  <channel id="SkyTG24.it">4097:0:19:DBF:16A8:FBFF:820000:0:0:0:</channel><!-- SKY TG 24 .s -->
-  <channel id="SkyShowtime1.it">4097:0:19:1D3A:48:46:E080000:0:0:0:</channel><!-- SKYSHOWTIME 1 .c -->
-  <channel id="Sportitalia.it">4097:0:19:51:7918:217C:5A0000:0:0:0:</channel><!-- SPORT ITALIA .s -->
+  <channel id="SkyTG24.it">4097:0:19:DBF:16A8:FBFF:820000:0:0:0:</channel><!-- SKY TG 24 .c -->
   <channel id="FOX.it">4097:0:1:20:2580:D5:820000:0:0:0:</channel><!-- STAR CHANNEL .c -->
   <channel id="FOXCrime.it">4097:0:1:16:2580:D5:820000:0:0:0:</channel><!-- STAR CRIME .c -->
   <channel id="SuperTennis.it">4097:0:19:2C29:1900:FBFF:820000:0:0:0:</channel><!-- SUPER TENNIS .s -->

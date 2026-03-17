@@ -7,7 +7,7 @@
   <channel id="ZEE TV INDIA .s_">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZEE TV INDIA .s -->
   <channel id="star.gr">4097:0:1:141:157C:13E:820000:0:0:0:</channel><!-- 5STAR .s -->
   <channel id="FiveUSA.uk">4097:0:1:836:83D:2:11A0000:0:0:0:</channel><!-- 5USA .s -->
-  <channel id="AhlebaitTV.uk">4097:0:1:1DB4:82D:2:11A0000:0:0:0:</channel><!-- AHLEBAIT TV .b -->
+  <channel id="92News.uk">4097:0:1:1DBA:82D:2:11A0000:0:0:0:</channel><!-- 92 NEWS .b -->
   <channel id="AlJazeera.nws">4097:0:19:4272:11:10EF:FFFF0000:0:0:0:</channel><!-- AL JAZEERA HD .b -->
   <channel id="Alibi.uk">4097:0:19:1DB1:82D:2:11A0000:0:0:0:</channel><!-- ALIBI .s -->
   <channel id="AMC.cz">4097:0:19:177E:AF6:BB:E080000:0:0:0:</channel><!-- AMC .s -->
@@ -38,7 +38,7 @@
   <channel id="BoomerangPlus1.it">4097:0:1:2C4F:189C:FBFF:820000:0:0:0:</channel><!-- BOOMERANG .b -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .s -->
   <channel id="BritAsiaTV.uk">4097:0:1:C4D2:811:2:11A0000:0:0:0:</channel><!-- BRIT ASIA TV .b -->
-  <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK HD .b -->
+  <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK .b -->
   <channel id="Cartoonito.ro">4097:0:1:77F6:2C3:600:E080000:0:0:0:</channel><!-- CARTOONITO .s -->
   <channel id="CBBC.uk">4097:0:19:46C0:1000:1:D7A0000:0:0:0:</channel><!-- CBBC .s -->
   <channel id="CBeebies.uk">4097:0:19:4700:1000:1:D7A0000:0:0:0:</channel><!-- CBEEBIES HD .b -->
@@ -132,11 +132,6 @@
   <channel id="Magic.bg">4097:0:1:1E6:11:3:130000:0:0:0:</channel><!-- MAGIC .s -->
   <channel id="MATVNational.uk">4097:0:1:D752:82F:2:11A0000:0:0:0:</channel><!-- MATV NATIONAL .b -->
   <channel id="More4.uk">4097:0:19:CC8:7ED:2:11A0000:0:0:0:</channel><!-- MORE 4 .s -->
-  <channel id="MTV80s.eu">4097:0:16:1E91:19:46:E080000:0:0:0:</channel><!-- MTV 80S .s -->
-  <channel id="MTV90s.eu">4097:0:1:1FF:1B:2C0:E080000:0:0:0:</channel><!-- MTV 90S .s -->
-  <channel id="MTVBase.uk">4097:0:1:1A45:834:2:11A0000:0:0:0:</channel><!-- MTV BASE .s -->
-  <channel id="MTVHits.eu">4097:0:1:1FC:1B:2C0:E080000:0:0:0:</channel><!-- MTV HITS .s -->
-  <channel id="MTVLive.eu">4097:0:19:1:1964:13E:820000:0:0:0:</channel><!-- MTV LIVE .s -->
   <channel id="MTVMusic.it">4097:0:1:594:19C8:FBFF:820000:0:0:0:</channel><!-- MTV MUSIC .s -->
   <channel id="MTVRocks.dk">4097:0:1:6E0:85C:FE00:FFFF0000:0:0:0:</channel><!-- MTV ROCKS .s -->
   <channel id="MUTV.uk">4097:0:19:FF0:7ED:2:11A0000:0:0:0:</channel><!-- MUTV .s -->
@@ -192,7 +187,7 @@
   <channel id="SkyCinemaSci-fiHorror.uk">4097:0:19:EE9:7EE:2:11A0000:0:0:0:</channel><!-- SKY SCIFI & HORROR .b -->
   <channel id="SkyShowcase.de">4097:0:19:8E:B:85:C00000:0:0:0:</channel><!-- SKY SHOWCASE .s -->
   <channel id="SkySportAction.it">4097:0:19:1E58:2198:FBFF:820000:0:0:0:</channel><!-- SKY SPORTS GOLF HD .s -->
-  <channel id="SkySportMix.de">4097:0:19:8D:2:85:C00000:0:0:0:</channel><!-- SKY SPORTS MIX HD .s -->
+  <channel id="SkySportMix.de">4097:0:19:8D:2:85:C00000:0:0:0:</channel><!-- SKY SPORTS MIX HD .b -->
   <channel id="SkySportNewsHD.de">4097:0:19:6C:C:85:C00000:0:0:0:</channel><!-- SKY SPORTS NEWS HQ HD .s -->
   <channel id="SkySportPremierLeague.de">4097:0:19:91:4:85:C00000:0:0:0:</channel><!-- SKY SPORTS PREMIER LEAGUE HD .s -->
   <channel id="SkySportTennis.it">4097:0:19:DE7:15E0:FBFF:820000:0:0:0:</channel><!-- SKY SPORT TENNIS .s -->

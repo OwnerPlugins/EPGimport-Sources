@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
+  <channel id="ZOEY 101 .c_de">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZOEY 101 .c -->
   <channel id="123.tv.de">4097:0:19:157E:41F:1:C00000:0:0:0:</channel><!-- 123 TV .c -->
   <channel id="13thStreet.de">4097:0:19:7F:D:85:C00000:0:0:0:</channel><!-- 13TH STREET HD+ .b -->
   <channel id="3sat.de">4097:0:19:2B8E:3F2:1:C00000:0:0:0:</channel><!-- 3SAT .c -->
@@ -9,7 +10,6 @@
   <channel id="Anixe.de">4097:0:19:2FC:5:85:C00000:0:0:0:</channel><!-- ANIXE+ .c -->
   <channel id="ARD-alpha.de">4097:0:19:2889:40F:1:C00000:0:0:0:</channel><!-- ARD ALPHA .s -->
   <channel id="ARTE.fr">4097:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE .s -->
-  <channel id="ATV2.at">4097:0:1:33A7:3EB:1:C00000:0:0:0:</channel><!-- ATV 2 .s -->
   <channel id="a.tv.de">4097:0:19:16A8:3FF:1:C00000:0:0:0:</channel><!-- AUGSBURG TV .c -->
   <channel id="AutoMotorundSportChannel.eu">4097:0:1:76DB:2C0:600:E080000:0:0:0:</channel><!-- AUTO MOTOR SPORT .s -->
   <channel id="AXN.cz">4097:0:1:2AFE:B:1111:E080000:0:0:0:</channel><!-- AXN .s -->
@@ -19,7 +19,8 @@
   <channel id="Bergblick.de">4097:0:16:1013:451:35:C00000:0:0:0:</channel><!-- BERGBLICK .c -->
   <channel id="BibelTV.de">4097:0:19:33A8:3EB:1:C00000:0:0:0:</channel><!-- BIBEL TV .s -->
   <channel id="BILD.de">4097:0:19:2775:409:1:C00000:0:0:0:</channel><!-- BILD TV .s -->
-  <channel id="BonGusto.de">4097:0:1:BB8:1BBC:9C:5A0000:0:0:0:</channel><!-- BON GUSTO .c -->
+  <channel id="BollywoodTV.ro">4097:0:1:79E7:2C8:600:E080000:0:0:0:</channel><!-- BOLLYWOOD .s -->
+  <channel id="BonGusto.de">4097:0:1:BB8:1BBC:9C:5A0000:0:0:0:</channel><!-- BON GUSTO .s -->
   <channel id="BoomerangPlus1.it">4097:0:1:2C4F:189C:FBFF:820000:0:0:0:</channel><!-- BOOMERANG .b -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .s -->
   <channel id="BRFernsehen.de">4097:0:19:2855:401:1:C00000:0:0:0:</channel><!-- BR .s -->
@@ -38,7 +39,7 @@
   <channel id="DasErste.de">4097:0:19:84:3264:13E:820000:0:0:0:</channel><!-- DAS ERSTE HD+ .b -->
   <channel id="dazn1.de">4097:0:19:C3A9:271A:F001:FFFF0000:0:0:0:</channel><!-- DAZN 1 HEVC [] .c -->
   <channel id="DAZN1.de">4097:0:19:84:9:85:C00000:0:0:0:</channel><!-- DAZN 1 HD .b -->
-  <channel id="dazn2.de">4097:0:19:C3AA:2721:F001:FFFF0000:0:0:0:</channel><!-- DAZN 2 HEVC [] .c -->
+  <channel id="dazn2.de">4097:0:19:C3AA:2721:F001:FFFF0000:0:0:0:</channel><!-- DAZN 2 .s -->
   <channel id="DAZN2.de">4097:0:19:7A:9:85:C00000:0:0:0:</channel><!-- DAZN 2 HD .b -->
   <channel id="DeluxeDance.de">4097:0:19:296B:45A:1:C00000:0:0:0:</channel><!-- DELUXE DANCE .c -->
   <channel id="DeluxeLounge.de">4097:0:1:24B:19:3:130000:0:0:0:</channel><!-- DELUXE LOUNGE .c -->
@@ -56,7 +57,7 @@
   <channel id="Disney.bg">4097:0:1:82:251C:13E:820000:0:0:0:</channel><!-- DISNEY+ .c -->
   <channel id="DMAX.it">4097:0:19:3B62:12C:13E:820000:0:0:0:</channel><!-- DMAX .s -->
   <channel id="Dokusat.de">4097:0:1:332F:45B:1:C00000:0:0:0:</channel><!-- DOKUSAT .c -->
-  <channel id="DRRamaSjang.dk">4097:0:16:1C98:A:46:E080000:0:0:0:</channel><!-- DR RAMASJANG .b -->
+  <channel id="E!Entertainment.gr">4097:0:1:452:1:AA:5A0000:0:0:0:</channel><!-- E! .c -->
   <channel id="MySportsEDGE.eu">4097:0:1:F8:14:3:130000:0:0:0:</channel><!-- EDGE SPORT .c -->
   <channel id="eSports1.de">4097:0:19:10CE:418:1:C00000:0:0:0:</channel><!-- ESPORTS 1 .c -->
   <channel id="Euronews.nws">4097:0:1:4F:C:3:130000:0:0:0:</channel><!-- EURONEWS .s -->
@@ -69,10 +70,10 @@
   <channel id="Health.de">4097:0:1:3138:459:1:C00000:0:0:0:</channel><!-- HEALTH TV .c -->
   <channel id="Heimatkanal.de">4097:0:16:16:2:85:C00000:0:0:0:</channel><!-- HEIMAT KANAL .s -->
   <channel id="HGTV.cz">4097:0:16:2344:AF9:BB:E080000:0:0:0:</channel><!-- HGTV .s -->
-  <channel id="HISTORY2Europe.eu">4097:0:19:1C16:29:46:E080000:0:0:0:</channel><!-- HISTORY HD .b -->
+  <channel id="HISTORY2Europe.eu">4097:0:19:1C16:29:46:E080000:0:0:0:</channel><!-- HISTORY .b -->
   <channel id="HistoryChannel.bg">4097:0:19:10D:2580:13E:820000:0:0:0:</channel><!-- HISTORY .c -->
   <channel id="HistoryChannel.dk">4097:0:19:106A:29:46:E080000:0:0:0:</channel><!-- HISTORY CHANNEL .s -->
-  <channel id="HRFernsehen.de">4097:0:19:2873:425:1:C00000:0:0:0:</channel><!-- HR FERNSEHEN .s -->
+  <channel id="HRFernsehen.de">4097:0:19:2873:425:1:C00000:0:0:0:</channel><!-- HR-FERNSEHEN HD .b -->
   <channel id="HSE24Extra.de">4097:0:19:157D:41F:1:C00000:0:0:0:</channel><!-- HSE EXTRA .c -->
   <channel id="HSETrend.de">4097:0:1:4D:21:85:C00000:0:0:0:</channel><!-- HSE TREND .c -->
   <channel id="InvestigationDiscovery.dk">4097:0:16:1D24:21:46:E080000:0:0:0:</channel><!-- ID INVESTIGATION DISCOVERY .b -->
@@ -80,7 +81,6 @@
   <channel id="Junior.de">4097:0:16:93:56:1:FFFF0000:0:0:0:</channel><!-- JUNIOR HD .b -->
   <channel id="JustFishing.de">4097:0:19:29CC:45C:1:C00000:0:0:0:</channel><!-- JUST FISHING .c -->
   <channel id="JuweloTV.de">4097:0:19:151B:455:1:C00000:0:0:0:</channel><!-- JUWELO TV .s -->
-  <channel id="KTV.de">4097:0:19:30F2:413:1:C00000:0:0:0:</channel><!-- K-TV .c -->
   <channel id="Kabel1.ch">4097:0:19:7F:3264:13E:820000:0:0:0:</channel><!-- KABEL 1 HD .b -->
   <channel id="KabelEinsClassic.de">4097:0:19:2448:38:1:FFFF0000:0:0:0:</channel><!-- KABEL EINS CLASSICS .c -->
   <channel id="KabelEinsDoku.de">4097:0:19:14C0:407:1:C00000:0:0:0:</channel><!-- KABEL EINS DOKU .c -->
@@ -89,6 +89,8 @@
   <channel id="Kika.de">4097:0:19:2B98:3F2:1:C00000:0:0:0:</channel><!-- KIKA .s -->
   <channel id="LuxeTV.eu">4097:0:19:456:1AF4:9E:5A0000:0:0:0:</channel><!-- LUXE TV .c -->
   <channel id="ArenaSport1.cz">4097:0:16:7AAA:2CC:600:E080000:0:0:0:</channel><!-- MAGENTA SPORT 1 .s -->
+  <channel id="ArenaSport2.cz">4097:0:16:4BA:76C1:16E:A00000:0:0:0:</channel><!-- MAGENTA SPORT 2 .s -->
+  <channel id="ArenaSport3.hr">4097:0:19:6C:1:40:A00000:0:0:0:</channel><!-- MAGENTA SPORT 3 .s -->
   <channel id="ArenaSport4.hr">4097:0:16:718:C5A8:16E:A00000:0:0:0:</channel><!-- MAGENTA SPORT 4 .s -->
   <channel id="ArenaSport5.rs">4097:0:1:1E2:B:1:130000:0:0:0:</channel><!-- MAGENTA SPORT 5 .s -->
   <channel id="ArenaSport6.hr">4097:0:16:7F:2:40:A00000:0:0:0:</channel><!-- MAGENTA SPORT 6 .s -->
@@ -104,7 +106,7 @@
   <channel id="ntv.de">4097:0:19:EF14:421:1:C00000:0:0:0:</channel><!-- N-TV .s -->
   <channel id="N24Doku.de">4097:0:1:30:5:85:C00000:0:0:0:</channel><!-- N24 DOKU HD .b -->
   <channel id="NatGeoPlus1.uk">4097:0:1:16BE:7E4:2:11A0000:0:0:0:</channel><!-- NAT GEO .b -->
-  <channel id="NatGeo.bg">4097:0:19:13C:2648:13E:820000:0:0:0:</channel><!-- NAT GEO [] .c -->
+  <channel id="NatGeo.bg">4097:0:19:13C:2648:13E:820000:0:0:0:</channel><!-- NAT GEO .s -->
   <channel id="NatGeoWild.cz">4097:0:19:7666:2BF:600:E080000:0:0:0:</channel><!-- NAT GEO WILD HD+ .b -->
   <channel id="NatGeo.dk">4097:0:19:1C7D:A:46:E080000:0:0:0:</channel><!-- NATIONAL GEOGRAPHIC .b -->
   <channel id="NBA.pt">4097:0:1:1796:27:36:CE40000:0:0:0:</channel><!-- NBA TV .b -->
@@ -112,9 +114,11 @@
   <channel id="MDRS-Anhalt.de">4097:0:1:FE0:191:4:FFFF0000:0:0:0:</channel><!-- NDR FERNSEHEN .c -->
   <channel id="NickJrPlus1.it">4097:0:1:FC6:14B4:FBFF:820000:0:0:0:</channel><!-- NICK JR .b -->
   <channel id="NickJr.it">4097:0:1:590:19C8:FBFF:820000:0:0:0:</channel><!-- NICK JR .s -->
+  <channel id="NickJr.dk">4097:0:16:1F1C:19:46:E080000:0:0:0:</channel><!-- NICK JUNIOR .c -->
   <channel id="NickelodeonPlus1.it">4097:0:1:38C4:19C8:FBFF:820000:0:0:0:</channel><!-- NICKELODEON .b -->
   <channel id="NickelodeonINT.cz">4097:0:1:203:1B:2C0:E080000:0:0:0:</channel><!-- NICKELODEON .s -->
   <channel id="NickToons.ro">4097:0:1:77B1:2C2:600:E080000:0:0:0:</channel><!-- NICKTOONS .s -->
+  <channel id="OE24TV.at">4097:0:19:3402:3ED:1:C00000:0:0:0:</channel><!-- OE24.TV .s -->
   <channel id="One.de">4097:0:19:2888:40F:1:C00000:0:0:0:</channel><!-- ONE .s -->
   <channel id="OneTerra.de">4097:0:19:2968:45A:1:C00000:0:0:0:</channel><!-- ONE TERRA .c -->
   <channel id="ORF2.at">4097:0:19:6E:3264:13E:820000:0:0:0:</channel><!-- ORF 2 .s -->
@@ -124,6 +128,7 @@
   <channel id="ParamountNetwork.cz">4097:0:16:2B0F:AFB:BB:E080000:0:0:0:</channel><!-- PARAMOUNT NETWORK .b -->
   <channel id="Pearl.tv.de">4097:0:19:151C:455:1:C00000:0:0:0:</channel><!-- PEARL TV .c -->
   <channel id="phoenix.de">4097:0:19:285B:401:1:C00000:0:0:0:</channel><!-- PHOENIX .b -->
+  <channel id="phoenix.de">4097:0:1:36B5:E:601:FFFF0000:0:0:0:</channel><!-- PHOENIX HD .b -->
   <channel id="PlanetPLUS.svn">4097:0:19:9B:16:1:FFFF0000:0:0:0:</channel><!-- PLANET .s -->
   <channel id="Pro7.ch">4097:0:19:73:3264:13E:820000:0:0:0:</channel><!-- PRO 7 .s -->
   <channel id="ProSiebenFun.de">4097:0:19:B54:1BBC:9C:5A0000:0:0:0:</channel><!-- PRO7 FUN HD .b -->
@@ -134,6 +139,7 @@
   <channel id="QVCStyle.de">4097:0:19:2779:409:1:C00000:0:0:0:</channel><!-- QVC STYLE .c -->
   <channel id="QVC2.de">4097:0:1F:7DA:449:1:C00000:0:0:0:</channel><!-- QVC ZWEI .s -->
   <channel id="rbbBerlin.de">4097:0:19:286E:425:1:C00000:0:0:0:</channel><!-- RBB BERLIN .c -->
+  <channel id="rheinmaintv.de">4097:0:1:7A:1C:C:FFFF0000:0:0:0:</channel><!-- RHEINMAIN TV .c -->
   <channel id="RiC.de">4097:0:1:22F:18:3:130000:0:0:0:</channel><!-- RIC .c -->
   <channel id="RheinNeckarFernsehen.de">4097:0:1:893B:172:A018:FFFF0000:0:0:0:</channel><!-- RNF .s -->
   <channel id="Romance.de">4097:0:16:206:2:85:C00000:0:0:0:</channel><!-- ROMANCE TV .s -->
@@ -154,10 +160,10 @@
   <channel id="Sat1Gold.de">4097:0:19:30D4:413:1:C00000:0:0:0:</channel><!-- SAT.1 GOLD .b -->
   <channel id="SchlagerDeluxe.de">4097:0:1:23:F:85:C00000:0:0:0:</channel><!-- SCHLAGER DELUXE .c -->
   <channel id="DF1.de">4097:0:19:1332:3EF:1:C00000:0:0:0:</channel><!-- SERVUS TV HD+ .b -->
-  <channel id="Silverline.de">4097:0:1:FA0:1BBC:9C:5A0000:0:0:0:</channel><!-- SILVERLINE .c -->
+  <channel id="Silverline.de">4097:0:1:FA0:1BBC:9C:5A0000:0:0:0:</channel><!-- SILVERLINE .s -->
   <channel id="Sixx.de">4097:0:19:EF77:3F9:1:C00000:0:0:0:</channel><!-- SIXX .s -->
   <channel id="Sky1.de">4097:0:19:93:2:85:C00000:0:0:0:</channel><!-- SKY 1 .s -->
-  <channel id="SkyAction.de">4097:0:16:9:2:85:C00000:0:0:0:</channel><!-- SKY ACTION .s -->
+  <channel id="SkyAction.de">4097:0:16:9:2:85:C00000:0:0:0:</channel><!-- SKY ACTION HD .b -->
   <channel id="SkyAtlantic.it">4097:0:1:584:1D4C:FBFF:820000:0:0:0:</channel><!-- SKY ATLANTIC .s -->
   <channel id="SkyAtlanticPlus1.it">4097:0:19:2D00:19C8:FBFF:820000:0:0:0:</channel><!-- SKY ATLANTIC HD+ .b -->
   <channel id="SkyCinemaThriller.uk">4097:0:19:17AE:7EE:2:11A0000:0:0:0:</channel><!-- SKY THRILLER HD+ .b -->
@@ -166,7 +172,7 @@
   <channel id="SkyCinemaPremieren+24.de">4097:0:1:2B:2:85:FFFF0000:0:0:0:</channel><!-- SKY CINEMA 24 .c -->
   <channel id="SkyCinemaAction.it">4097:0:19:106E:1644:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA EMOTION .s -->
   <channel id="SkyCinemaClassics.de">4097:0:19:6B:C:85:C00000:0:0:0:</channel><!-- SKY CINEMA BEST OF .s -->
-  <channel id="SkyCinemaHighlights.de">4097:0:19:6F:D:85:FFFF0000:0:0:0:</channel><!-- SKY CINEMA BEST OF HD .b -->
+  <channel id="SkyCinemaHighlights.de">4097:0:19:6F:D:85:FFFF0000:0:0:0:</channel><!-- SKY CINEMA BEST OF HD+ .b -->
   <channel id="SkyCinemaClassics.de">4097:0:16:204:6:85:C00000:0:0:0:</channel><!-- SKY CINEMA CLASSICS HD+ .b -->
   <channel id="SkyCinemaFamily.it">4097:0:19:1C57:206C:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA FAMILY HEVC .b -->
   <channel id="SkyCinemaDue.it">4097:0:19:DEC:15E0:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA FUN .s -->
@@ -191,21 +197,22 @@
   <channel id="SkySport5.de">4097:0:19:134:4:85:C00000:0:0:0:</channel><!-- SKY SPORT 5 .s -->
   <channel id="SkySport6.de">4097:0:19:13E:3:85:C00000:0:0:0:</channel><!-- SKY SPORT 6 HD .b -->
   <channel id="SkySport7.de">4097:0:19:148:3:85:C00000:0:0:0:</channel><!-- SKY SPORT 7 .s -->
-  <channel id="SkySport8.de">4097:0:19:152:10:85:C00000:0:0:0:</channel><!-- SKY SPORT 8 HD .b -->
+  <channel id="SkySport8.de">4097:0:19:152:10:85:C00000:0:0:0:</channel><!-- SKY SPORT 8 .s -->
   <channel id="SkySport9.de">4097:0:19:102:B:85:C00000:0:0:0:</channel><!-- SKY SPORT 9 HD .b -->
   <channel id="SkySportAustria2.at">4097:0:19:149:8:85:C00000:0:0:0:</channel><!-- SKY SPORT AUSTRIA 2 .s -->
   <channel id="SkySportAustria3.at">4097:0:19:153:2:85:C00000:0:0:0:</channel><!-- SKY SPORT AUSTRIA 3 .s -->
   <channel id="SkySportAustria5.at">4097:0:19:146:3:85:C00000:0:0:0:</channel><!-- SKY SPORT AUSTRIA 5 .s -->
   <channel id="SkySportF1.it">4097:0:19:2506:1900:FBFF:820000:0:0:0:</channel><!-- SKY SPORTS F1 .s -->
   <channel id="SkySportMix.de">4097:0:19:8D:2:85:C00000:0:0:0:</channel><!-- SKY SPORT MIX .s -->
-  <channel id="SkySportPremierLeague.de">4097:0:19:91:4:85:C00000:0:0:0:</channel><!-- SKY SPORT PREMIER LEAGUE .s -->
+  <channel id="SkySportPremierLeague.de">4097:0:19:91:4:85:C00000:0:0:0:</channel><!-- SKY SPORT PREMIER LEAGUE [] .c -->
+  <channel id="SkySportTennis.de">4097:0:16:DE:2:85:C00000:0:0:0:</channel><!-- SKY SPORT TENNIS [] .c -->
   <channel id="SonnenKlar.de">4097:0:19:1518:455:1:C00000:0:0:0:</channel><!-- SONNENKLAR TV .s -->
   <channel id="SonyMax.uk">4097:0:19:FA5:7E5:2:11A0000:0:0:0:</channel><!-- SONY AXN .c -->
   <channel id="SonyChannel.uk">4097:0:1:D039:83E:2:11A0000:0:0:0:</channel><!-- SONY CHANNEL .s -->
   <channel id="SonyChannelPlus1.uk">4097:0:1:D084:83E:2:11A0000:0:0:0:</channel><!-- SONY CHANNEL HD+ .b -->
   <channel id="SpiegelGeschichte.de">4097:0:19:89:10:85:C00000:0:0:0:</channel><!-- SPIEGEL GESCHICHTE .s -->
-  <channel id="Sport1.cz">4097:0:19:1783:AF6:BB:E080000:0:0:0:</channel><!-- SPORT 1 .c -->
-  <channel id="sportdigital.de">4097:0:19:4EEF:21FC:9C:5A0000:0:0:0:</channel><!-- SPORTDIGITAL 1+ .c -->
+  <channel id="Sport1.cz">4097:0:19:1783:AF6:BB:E080000:0:0:0:</channel><!-- SPORT 1 [] .c -->
+  <channel id="sportdigital.de">4097:0:19:4EEF:21FC:9C:5A0000:0:0:0:</channel><!-- SPORTDIGITAL 1+ [] .c -->
   <channel id="SPORT1plus.de">4097:0:19:10CD:418:1:C00000:0:0:0:</channel><!-- SPORT1+ HD .b -->
   <channel id="SportdigitalFussball.de">4097:0:19:10CC:418:1:C00000:0:0:0:HTTP%3A//:</channel><!-- SPORTDIGITALL FUSSBALL .s -->
   <channel id="SRFernsehen.de">4097:0:19:288A:40F:1:C00000:0:0:0:</channel><!-- SWR FERNSEHEN .c -->
@@ -221,15 +228,11 @@
   <channel id="TV2MidtVest.dk">4097:0:1:74E:1E:56:300000:0:0:0:</channel><!-- TV 2  MIDT-VEST .b -->
   <channel id="TV2Ostjylland.dk">4097:0:1:1216:1A:56:300000:0:0:0:</channel><!-- TV 2  STJYLLAND .b -->
   <channel id="TV2Charlie.dk">4097:0:19:1EF5:47:46:E080000:0:0:0:</channel><!-- TV 2 CHARLIE .b -->
-  <channel id="TV2SPORTX.dk">4097:0:19:1EE5:47:46:E080000:0:0:0:</channel><!-- TV 2 SPORT .b -->
   <channel id="tvingolstadt.de">4097:0:19:16AC:3FF:1:C00000:0:0:0:</channel><!-- TV INGOLSTADT .s -->
   <channel id="TV3Max.dk">4097:0:19:1F01:23:46:E080000:0:0:0:</channel><!-- TV3 MAX .b -->
   <channel id="TV3Puls.dk">4097:0:19:1133:18:56:300000:0:0:0:</channel><!-- TV3 PULS .b -->
-  <channel id="TV3Sport1.dk">4097:0:19:6B8:19:56:300000:0:0:0:</channel><!-- TV3 SPORT .b -->
   <channel id="ViasatFilmFamily.se">4097:0:16:429E:23:46:E080000:0:0:0:</channel><!-- V FILM FAMILY .b -->
   <channel id="ViasatFilmHits.se">4097:0:19:436:3C:A027:FFFF0000:0:0:0:</channel><!-- V FILM HITS .b -->
-  <channel id="ViasatFilmPremiere.se">4097:0:19:434B:2:46:E080000:0:0:0:</channel><!-- V FILM PREMIERE .b -->
-  <channel id="ViasatSeries.se">4097:0:19:424:3B:A027:FFFF0000:0:0:0:</channel><!-- V SERIES .b -->
   <channel id="VH1Classic.svn">4097:0:1:1FE:1B:2C0:E080000:0:0:0:</channel><!-- VH1 CLASSIC .b -->
   <channel id="ViasatExplore.se">4097:0:19:1D53:46:46:E080000:0:0:0:</channel><!-- VIASAT EXPLORE .b -->
   <channel id="ViasatHistory.cz">4097:0:1:7982:2C7:600:E080000:0:0:0:</channel><!-- VIASAT HISTORY .b -->
@@ -246,7 +249,7 @@
   <channel id="WELT.de">4097:0:1:1E6:B:1:130000:0:0:0:</channel><!-- WELT .s -->
   <channel id="WeltDerWunder.de">4097:0:1:C763:2725:F001:FFFF0000:0:0:0:</channel><!-- WELT DER WUNDER TV .c -->
   <channel id="Wetterfernsehen.de">4097:0:1:640:1FA4:9C:5A0000:0:0:0:</channel><!-- WETTER.COM TV .c -->
-  <channel id="XITE.nl">4097:0:16:7D4:835:600:FFFF0000:0:0:0:</channel><!-- XITE .s -->
+  <channel id="XITE.nl">4097:0:16:7D4:835:600:FFFF0000:0:0:0:</channel><!-- XITE .c -->
   <channel id="XPLORE.de">4097:0:19:2969:45A:1:C00000:0:0:0:</channel><!-- XPLORE .c -->
   <channel id="ZDF.de">4097:0:19:85:3264:13E:820000:0:0:0:</channel><!-- ZDF .s -->
   <channel id="ZDFneo.de">4097:0:19:2B7A:3F3:1:C00000:0:0:0:</channel><!-- ZDF NEO .s -->

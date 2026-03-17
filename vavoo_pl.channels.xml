@@ -9,10 +9,11 @@
   <channel id="BabyTV.hr">4097:0:1:184:9:3:130000:0:0:0:</channel><!-- BABY TV .c -->
   <channel id="BBCEarth.cz">4097:0:19:7812:2C3:600:E080000:0:0:0:</channel><!-- BBC EARTH HD .b -->
   <channel id="BBCFirst.nl">4097:0:19:52B0:C99:3:EB0000:0:0:0:</channel><!-- BBC FIRST .c -->
+  <channel id="BBCLifestyle.nl">4097:0:1:1B:0:31:CCCC0000:0:0:3:HTTP%3A//:</channel><!-- BBC LIFESTYLE .c -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .c -->
   <channel id="BoomerangPlus1.it">4097:0:1:2C4F:189C:FBFF:820000:0:0:0:</channel><!-- BOOMERANG HD .b -->
   <channel id="CanalJ.fr">4097:0:19:2018:430:1:C00000:0:0:0:</channel><!-- CANAL HD .b -->
-  <channel id="C+Sport2.cz">4097:0:19:1F4B:CA1:3:EB0000:0:0:0:</channel><!-- CANAL+ SPORT 2 .c -->
+  <channel id="C+Sport2.cz">4097:0:19:1F4B:CA1:3:EB0000:0:0:0:</channel><!-- CANAL+ SPORT 4 .b -->
   <channel id="C+Sport2SK.sk">4097:0:19:2B06:AFB:BB:E080000:0:0:0:</channel><!-- CANAL+ SPORT 5 .c -->
   <channel id="Canal11.pt">4097:0:1:179B:2F:36:CE40000:0:0:0:</channel><!-- CANAL+ 1 .c -->
   <channel id="CanalNOS.pt">4097:0:1:12EC:30:36:CE40000:0:0:0:</channel><!-- CANAL+ NOW .c -->
@@ -22,6 +23,7 @@
   <channel id="Cartoonito.ro">4097:0:1:77F6:2C3:600:E080000:0:0:0:</channel><!-- CARTOONITO .c -->
   <channel id="CBeebies.uk">4097:0:19:4700:1000:1:D7A0000:0:0:0:</channel><!-- CBEEBIES .c -->
   <channel id="CBSReality.eu">4097:0:1:78B9:2C5:600:E080000:0:0:0:</channel><!-- CBS REALITY .c -->
+  <channel id="CBSReality+1.uk">4097:0:1:D7B1:840:2:11A0000:0:0:0:</channel><!-- CBS REALITY HD .b -->
   <channel id="CineMAX.ro">4097:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- CINEMAX .c -->
   <channel id="Cinemax2.cz">4097:0:19:1B66:AF7:BB:E080000:0:0:0:</channel><!-- CINEMAX HD .b -->
   <channel id="ComedyCentral.ro">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .c -->
@@ -38,9 +40,9 @@
   <channel id="E!Entertainment.gr">4097:0:1:452:1:AA:5A0000:0:0:0:</channel><!-- E! .c -->
   <channel id="E!.ro">4097:0:1:3EF:1:1:E08318F:0:0:0:</channel><!-- E! ENTERTAINMENT .b -->
   <channel id="elevensports1.pt">4097:0:1:13AE:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 1 HD .b -->
+  <channel id="elevensports2.pt">4097:0:1:17B9:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 2 HD .b -->
   <channel id="elevensports3.pt">4097:0:1:17BA:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 3 HD .b -->
-  <channel id="elevensports2.pt">4097:0:1:17B9:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 2 .c -->
-  <channel id="elevensports4.pt">4097:0:1:13B0:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 4 .c -->
+  <channel id="elevensports4.pt">4097:0:1:13B0:27:36:CE40000:0:0:0:</channel><!-- ELEVEN SPORTS 4 HD .b -->
   <channel id="EpicDrama.cz">4097:0:19:1B63:AF7:BB:E080000:0:0:0:</channel><!-- EPIC DRAMA HD .b -->
   <channel id="SKAT.bg">4097:0:1:11:3:1:1860000:0:0:0:</channel><!-- ESKA TV .c -->
   <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 HD .b -->
@@ -77,6 +79,7 @@
   <channel id="ParamountNetwork.cz">4097:0:16:7920:2C6:600:E080000:0:0:0:</channel><!-- PARAMOUNT CHANNEL .c -->
   <channel id="Puls24.at">4097:0:19:14B8:407:1:C00000:0:0:0:</channel><!-- PULS 2 .c -->
   <channel id="Romance.de">4097:0:16:206:2:85:C00000:0:0:0:</channel><!-- ROMANCE TV .b -->
+  <channel id="SciFi.hr">4097:0:1:4ED2:C9C:3:EB0000:0:0:0:</channel><!-- SCI-FI .c -->
   <channel id="SportKlub3.hr">4097:0:16:71A:C5A8:16E:A00000:0:0:0:</channel><!-- SPORTKLUB HD .b -->
   <channel id="SportKlubHD.hr">4097:0:1:1169:9CA4:16E:A00000:0:0:0:</channel><!-- SPORT KLUB .c -->
   <channel id="Tele5.de">4097:0:19:1519:455:1:C00000:0:0:0:</channel><!-- TELE 5 .c -->
@@ -86,6 +89,7 @@
   <channel id="TV6.se">4097:0:19:1B86:3E:46:E080000:0:0:0:</channel><!-- TV 6 .c -->
   <channel id="TV3Puls.dk">4097:0:19:1133:18:56:300000:0:0:0:</channel><!-- TV PULS .c -->
   <channel id="TV1Bulgaria.bg">4097:0:1:1389:2710:13E:820000:0:0:0:</channel><!-- TVP 1 .c -->
+  <channel id="TV2.rs">4097:0:1:4F0C:CA5:3:EB0000:0:0:0:</channel><!-- TVP 2 .c -->
   <channel id="TVRInfo.ro">4097:0:1:5B4:D:1:E080000:0:0:0:</channel><!-- TVP INFO .c -->
   <channel id="TVPPolonia.nws">4097:0:19:410:22:A027:FFFF0000:0:0:0:</channel><!-- TVP POLONIA .c -->
   <channel id="TV2Sport.dk">4097:0:19:1C67:47:46:E080000:0:0:0:</channel><!-- TVP SPORT .c -->

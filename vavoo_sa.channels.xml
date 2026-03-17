@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
+  <channel id="ZHWANDOON TV AFG .b_sa">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZHWANDOON TV AFG .b -->
   <channel id="2MMaroc.ma">4097:0:1:4A67:807:600:FFFF0000:0:0:0:</channel><!-- 2M MAROC .b -->
-  <channel id="2MMonde.ma">4097:0:1:641:10:1:FFFF0000:0:0:0:</channel><!-- 2M MONDE .b -->
   <channel id="AbuDhabiTV.uk">4097:0:1:1:32:64:DCA0000:0:0:0:</channel><!-- ABU DHAHBI TV .b -->
   <channel id="AlAoulaInter.ma">4097:0:1:5:2E18:B0:820000:0:0:0:</channel><!-- AL AOULA INTER .b -->
   <channel id="AlAraby2.ma">4097:0:19:5018:802:E0:1040000:0:0:0:</channel><!-- AL ARABY HD .b -->
@@ -51,16 +51,13 @@
   <channel id="MTA1World.uk">4097:0:19:CF9F:83A:2:11A0000:0:0:0:</channel><!-- MTA1 WORLD .b -->
   <channel id="MTV.dk">4097:0:16:1EF3:19:46:E080000:0:0:0:</channel><!-- MTV .c -->
   <channel id="MTV00s.eu">4097:0:16:1EF4:19:46:E080000:0:0:0:</channel><!-- MTV 00S .c -->
-  <channel id="MTVHits.eu">4097:0:1:1FC:1B:2C0:E080000:0:0:0:</channel><!-- MTV HITS .c -->
   <channel id="MTVLive.eu">4097:0:19:1:1964:13E:820000:0:0:0:</channel><!-- MTV LIVE .c -->
   <channel id="NatGeo.bg">4097:0:19:13C:2648:13E:820000:0:0:0:</channel><!-- NAT GEO .c -->
-  <channel id="NatGeoPlus1.uk">4097:0:1:16BE:7E4:2:11A0000:0:0:0:</channel><!-- NAT GEO HD .b -->
   <channel id="NatGeoWild.cz">4097:0:19:7666:2BF:600:E080000:0:0:0:</channel><!-- NAT GEO WILD .b -->
   <channel id="NETTV.mt">4097:0:1:8235:2648:FBFF:820000:0:0:0:HTTP%3A//:</channel><!-- NET TV .c -->
-  <channel id="NickJrPlus1.it">4097:0:1:FC6:14B4:FBFF:820000:0:0:0:</channel><!-- NICK JR .b -->
   <channel id="NickJr.it">4097:0:1:590:19C8:FBFF:820000:0:0:0:</channel><!-- NICK JR .c -->
-  <channel id="NickelodeonPlus1.it">4097:0:1:38C4:19C8:FBFF:820000:0:0:0:</channel><!-- NICKELODEON HD .b -->
   <channel id="NickelodeonINT.cz">4097:0:1:203:1B:2C0:E080000:0:0:0:</channel><!-- NICKELODEON .c -->
+  <channel id="NickelodeonPlus1.it">4097:0:1:38C4:19C8:FBFF:820000:0:0:0:</channel><!-- NICKELODEON .b -->
   <channel id="ParamountNetwork.cz">4097:0:16:2B0F:AFB:BB:E080000:0:0:0:</channel><!-- PARAMOUNT NETWORK .c -->
   <channel id="SkyNwsArabia.nws">4097:0:1:252C:13EF:13E:820000:0:0:0:</channel><!-- SKY NEWS ARABIC HD .b -->
   <channel id="FOX.bg">4097:0:1:20:25E4:13E:820000:0:0:0:</channel><!-- STAR CHANNEL .b -->

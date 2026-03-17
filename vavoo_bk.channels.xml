@@ -20,9 +20,9 @@
   <channel id="AXNAdria.rs">4097:0:1:2FF:9D08:16E:A00000:0:0:0:</channel><!-- AXN ADRIA .s -->
   <channel id="AXNSpin.hr">4097:0:16:77A:C6D4:16E:A00000:0:0:0:</channel><!-- AXN SPIN .s -->
   <channel id="BabyTV.hr">4097:0:1:184:9:3:130000:0:0:0:</channel><!-- BABY TV .c -->
-  <channel id="BalkanTrip.rs">4097:0:16:5A:3:40:A00000:0:0:0:</channel><!-- BALKAN TRIP .s -->
   <channel id="Balkanika.bg">4097:0:1:91:F:3:130000:0:0:0:</channel><!-- BALKANIKA .s -->
   <channel id="BBCEarth.cz">4097:0:19:7812:2C3:600:E080000:0:0:0:</channel><!-- BBC EARTH .s -->
+  <channel id="BHTV1.ba">4097:0:1:357:C3B4:16E:A00000:0:0:0:</channel><!-- BHT 1 .s -->
   <channel id="BN.rs">4097:0:1:4E88:C86:3:EB0000:0:0:0:</channel><!-- BN .c -->
   <channel id="BNMusic.ba">4097:0:1:5:1:16E:A00000:0:0:0:</channel><!-- BN MUSIC .s -->
   <channel id="BN2.rs">4097:0:1:4E87:C86:3:EB0000:0:0:0:</channel><!-- BN2 .c -->
@@ -57,9 +57,14 @@
   <channel id="DokuTV.hr">4097:0:1:364:C3B4:16E:A00000:0:0:0:</channel><!-- DOKU TV .s -->
   <channel id="TVDoma.sk">4097:0:19:1787:AF6:BB:E080000:0:0:0:</channel><!-- DOMA .s -->
   <channel id="E!Entertainment.gr">4097:0:1:452:1:AA:5A0000:0:0:0:</channel><!-- E! .c -->
+  <channel id="EuroCinema1.rs">4097:0:1:4ED8:C9C:3:EB0000:0:0:0:</channel><!-- EURO CINEMA 1 .c -->
+  <channel id="EuroCinema2.rs">4097:0:1:4ED9:C9F:3:EB0000:0:0:0:</channel><!-- EURO CINEMA 2 .c -->
+  <channel id="EuroCinema3.rs">4097:0:1:4EDB:C9C:3:EB0000:0:0:0:</channel><!-- EURO CINEMA 3 .c -->
+  <channel id="EuroCinema4.rs">4097:0:1:4EDC:C9F:3:EB0000:0:0:0:</channel><!-- EURO CINEMA 4 .c -->
   <channel id="Eurosport1.dk">4097:0:19:1C1C:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 1 .s -->
   <channel id="Eurosport2.dk">4097:0:19:1C51:30:46:E080000:0:0:0:</channel><!-- EUROSPORT 2 .c -->
   <channel id="FaceTV.hr">4097:0:1:6:1:16E:A00000:0:0:0:</channel><!-- FACE TV .c -->
+  <channel id="FederalnaTV.ba">4097:0:1:358:C3B4:16E:A00000:0:0:0:</channel><!-- FEDERALNA TV .c -->
   <channel id="Fightbox.eu">4097:0:16:759B:2BD:600:E080000:0:0:0:</channel><!-- FIGHTBOX .s -->
   <channel id="FilmBox.bg">4097:0:1:77FE:2C3:600:E080000:0:0:0:</channel><!-- FILMBOX .s -->
   <channel id="FilmBoxExtra.ro">4097:0:19:773B:2C1:600:E080000:0:0:0:</channel><!-- FILMBOX EXTRA .s -->
@@ -72,10 +77,12 @@
   <channel id="Haha.rs">4097:0:1:67:CB2B:16E:A00000:0:0:0:</channel><!-- HAHA .s -->
   <channel id="HappyTV.hr">4097:0:1:2B0D:B:1111:E082F3C:0:0:0:</channel><!-- HAPPY TV .s -->
   <channel id="HayatTV.svn">4097:0:1:1:1:16E:A00000:0:0:0:</channel><!-- HAYAT .s -->
+  <channel id="hayat-plus.ba">4097:0:16:37:1:16E:A00000:0:0:0:</channel><!-- HAYAT 2 .c -->
   <channel id="HayatFolk.ba">4097:0:1:C:2:16E:A00000:0:0:0:</channel><!-- HAYAT FOLK .s -->
   <channel id="HayatMusic.ba">4097:0:1:2:2:16E:A00000:0:0:0:</channel><!-- HAYAT MUSIC .s -->
   <channel id="hayat-plus.ba">4097:0:1:B:2:16E:A00000:0:0:0:</channel><!-- HAYAT PLUS .s -->
   <channel id="Hayatovci.ba">4097:0:1:E:2:16E:A00000:0:0:0:</channel><!-- HAYATOVCI .s -->
+  <channel id="HBO.cz">4097:0:19:76C3:2C0:600:E080000:0:0:0:</channel><!-- HBO .s -->
   <channel id="HBO2.bg">4097:0:1:E6:251C:13E:820000:0:0:0:</channel><!-- HBO 2 .s -->
   <channel id="HBO3.bg">4097:0:1:E0:2580:13E:820000:0:0:0:</channel><!-- HBO 3 .s -->
   <channel id="HGTV.cz">4097:0:16:2344:AF9:BB:E080000:0:0:0:</channel><!-- HGTV .s -->
@@ -89,6 +96,7 @@
   <channel id="HRT4.hr">4097:0:1:388:4E84:16E:A00000:0:0:0:</channel><!-- HRT 4 .s -->
   <channel id="IDJTV.rs">4097:0:16:BB:11:2:130000:0:0:0:</channel><!-- IDJ TV .s -->
   <channel id="InvestigationDiscovery.dk">4097:0:16:1C8F:A:46:E080000:0:0:0:</channel><!-- INVESTIGATION DISCOVERY .c -->
+  <channel id="JimJam.hr">4097:0:1:4EC1:C9F:3:EB0000:0:0:0:</channel><!-- JIMJAM .c -->
   <channel id="Kanal4.dk">4097:0:19:1CB4:4:46:E080000:0:0:0:</channel><!-- KANAL 6 .c -->
   <channel id="KCN1.svn">4097:0:1:3EF:5E24:16E:A00000:0:0:0:</channel><!-- KCN 1 .s -->
   <channel id="KinoTV.hr">4097:0:16:723:C5A8:16E:A00000:0:0:0:</channel><!-- KINO TV .s -->
@@ -106,10 +114,12 @@
   <channel id="NatGeo.dk">4097:0:19:1C7D:A:46:E080000:0:0:0:</channel><!-- NATIONAL GEOGRAPHIC HD .b -->
   <channel id="NickJr.it">4097:0:1:590:19C8:FBFF:820000:0:0:0:</channel><!-- NICK JR .c -->
   <channel id="NickelodeonINT.cz">4097:0:1:203:1B:2C0:E080000:0:0:0:</channel><!-- NICKELODEON .s -->
+  <channel id="Nickelodeon.hr">4097:0:1:2F3:9D08:16E:A00000:0:0:0:</channel><!-- NICKELODEON HR .b -->
   <channel id="NickelodeonPlus1.it">4097:0:1:38C4:19C8:FBFF:820000:0:0:0:</channel><!-- NICKELODEON HR .s -->
   <channel id="NickToons.ro">4097:0:1:77B1:2C2:600:E080000:0:0:0:</channel><!-- NICKTOONS .s -->
   <channel id="NovaBH.ba">4097:0:1:1166:9CA4:16E:A00000:0:0:0:</channel><!-- NOVA BH .s -->
   <channel id="NovaMax.rs">4097:0:1:6DF:C544:16E:A00000:0:0:0:</channel><!-- NOVA M .s -->
+  <channel id="NovaSeries.rs">4097:0:1:368:C3B4:16E:A00000:0:0:0:</channel><!-- NOVA SERIES .c -->
   <channel id="NTVICKakanj.svn">4097:0:1:426D:11:183:FFFF0000:0:0:0:</channel><!-- NTVIC KAKANJ .c -->
   <channel id="OKanal.ba">4097:0:1:2EF:2D08:16E:A00000:0:0:0:</channel><!-- O KANAL .c -->
   <channel id="OBN.hr">4097:0:1:2B11:B:1111:E082F3C:0:0:0:</channel><!-- OBN .s -->
@@ -179,6 +189,7 @@
   <channel id="RTSTrezor.rs">4097:0:1:4E7D:C8B:3:EB0000:0:0:0:</channel><!-- RTS TREZOR .s -->
   <channel id="RTSZivot.rs">4097:0:1:1BD:A:2:130000:0:0:0:</channel><!-- RTS ZIVOT .s -->
   <channel id="RTV1.rs">4097:0:16:BC:11:2:130000:0:0:0:</channel><!-- RTV 1 .s -->
+  <channel id="SciFi.hr">4097:0:1:4ED2:C9C:3:EB0000:0:0:0:</channel><!-- SCIFI .s -->
   <channel id="SOS.hr">4097:0:1:B8:11:2:130000:0:0:0:</channel><!-- SOS KANAL .s -->
   <channel id="SportKlub3.hr">4097:0:16:71A:C5A8:16E:A00000:0:0:0:</channel><!-- SPORT KLUB 8 .c -->
   <channel id="Sportklub4.svn">4097:0:1:2E19:76:1F5:FFFF0000:0:0:0:</channel><!-- SPORT KLUB 4 .c -->

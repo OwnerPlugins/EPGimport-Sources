@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
+  <channel id="ZVEZDA .s_ru">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZVEZDA .s -->
+  <channel id="SciFi.hr">4097:0:1:4ED2:C9C:3:EB0000:0:0:0:</channel><!-- .SCIFI .b -->
   <channel id="360TuneBox.cz">4097:0:1:24A:19:3:130000:0:0:0:</channel><!-- 360 TUNEBOX .s -->
   <channel id="OKanal.ba">4097:0:1:2EF:2D08:16E:A00000:0:0:0:</channel><!-- 5 KANAL .s -->
   <channel id="AMC.cz">4097:0:19:177E:AF6:BB:E080000:0:0:0:</channel><!-- AMC .s -->
@@ -10,6 +12,7 @@
   <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK .b -->
   <channel id="CartoonNetwork.cz">4097:0:1:797E:2C7:600:E080000:0:0:0:</channel><!-- CARTOON NETWORK .s -->
   <channel id="CineMAX.ro">4097:0:1:77F5:2C3:600:E080000:0:0:0:</channel><!-- CINEMA .s -->
+  <channel id="CNN.nws">4097:0:16:1EE3:19:46:E080000:0:0:0:</channel><!-- CNN .s -->
   <channel id="ComedyPlus1.it">4097:0:1:38C5:2008:FBFF:820000:0:0:0:</channel><!-- COMEDY HD .b -->
   <channel id="DaVinciLearning.bg">4097:0:1:1393:2710:13E:820000:0:0:0:</channel><!-- DA VINCI .b -->
   <channel id="DaVinciLearning.bg">4097:0:1:66:E:3:130000:0:0:0:</channel><!-- DA VINCI LEARNING .s -->

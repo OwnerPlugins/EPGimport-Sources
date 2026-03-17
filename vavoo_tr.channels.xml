@@ -10,7 +10,7 @@
   <channel id="NatGeoWild.se">4097:0:19:438:37:A027:FFFF0000:0:0:0:</channel><!-- 4K TR NATIONAL GEOGRAPHIC WILD HD .b -->
   <channel id="RaiNews.it">4097:0:16:44F:46A:4ED8:DDE0000:0:0:0:</channel><!-- A NEWS .s -->
   <channel id="AgroTV.ro">4097:0:1:D48:C:1:E080000:0:0:0:</channel><!-- AGRO TV .c -->
-  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET HD .b -->
+  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET .s -->
   <channel id="Animaux.fr">4097:0:1:1C6:26AC:13F:820000:0:0:0:</channel><!-- ANIMAUX .b -->
   <channel id="ATV.rs">4097:0:1:675:9FC4:16E:A00000:0:0:0:</channel><!-- ATV .s -->
   <channel id="ATV.be">4097:0:1:D3:2:1:FFFF0000:0:0:0:</channel><!-- ATV SD .b -->
@@ -60,7 +60,6 @@
   <channel id="HistoryChannel.dk">4097:0:19:106A:29:46:E080000:0:0:0:</channel><!-- HISTORY CHANNEL .s -->
   <channel id="HISTORY2Europe.eu">4097:0:19:1C16:29:46:E080000:0:0:0:</channel><!-- HISTORY HD .b -->
   <channel id="UnaTV.sr">4097:0:1:4E30:C81:3:EB0000:0:0:0:</channel><!-- HUNAT TV .c -->
-  <channel id="InvestigationDiscovery.dk">4097:0:16:1C8F:A:46:E080000:0:0:0:</channel><!-- INVESTIGATION DISCOVERY .c -->
   <channel id="Kanal11.se">4097:0:19:1D30:4:46:E080000:0:0:0:</channel><!-- KANAL 12 .c -->
   <channel id="Kanal5.dk">4097:0:19:4654:43:46:E080000:0:0:0:</channel><!-- KANAL 58 .s -->
   <channel id="Kanal3.bg">4097:0:1:216:17:3:130000:0:0:0:</channel><!-- KANAL 33 .c -->

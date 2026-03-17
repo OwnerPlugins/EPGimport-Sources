@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
   <channel id="MusicChannel.ro">4097:0:1:401:C:1:E080000:0:0:0:</channel><!-- MUSIC CHANNEL .b -->
+  <channel id="TVR HD .b_ro">4097:0:0:0:0:0:0:0:0:0:</channel><!-- TVR HD .b -->
   <channel id="Acasa.ro">4097:0:1:582:7:1:E080000:0:0:0:</channel><!-- ACASA .s -->
   <channel id="AcasaGold.ro">4097:0:1:55A:4:1:E080000:0:0:0:</channel><!-- ACASA GOLD .s -->
   <channel id="AgroTV.ro">4097:0:1:D48:C:1:E080000:0:0:0:</channel><!-- AGRO TV .s -->

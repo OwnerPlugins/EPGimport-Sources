@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
   <channel id="R101TV.it">4097:0:16:65:385:110:EEEE0000:0:0:0:</channel><!-- 101 TV .c -->
+  <channel id="ZAZ .c_es">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZAZ .c -->
   <channel id="AMC.cz">4097:0:19:177E:AF6:BB:E080000:0:0:0:</channel><!-- AMC .c -->
   <channel id="AMCBreak.pt">4097:0:1:138C:30:36:CE40000:0:0:0:</channel><!-- AMC BREAK .c -->
   <channel id="Antena3.ro">4097:0:1:76C1:2C0:600:E080000:0:0:0:</channel><!-- ANTENA 3 HD .b -->
@@ -11,7 +12,6 @@
   <channel id="Blaze.it">4097:0:19:DD7:189C:FBFF:820000:0:0:0:</channel><!-- BLAZE .c -->
   <channel id="BoingPlus1.it">4097:0:16:1E:200:1D:EEEE0000:0:0:0:</channel><!-- BOING .b -->
   <channel id="Boing.it">4097:0:16:7E:4B0:110:820000:0:0:0:</channel><!-- BOING .c -->
-  <channel id="CacaVision.pt">4097:0:1:72:65:53:CE40000:0:0:0:</channel><!-- CACAVISION .c -->
   <channel id="Canal24Horas.es">4097:0:19:DAE:1F40:13E:820000:0:0:0:</channel><!-- CANAL 24 HORAS .c -->
   <channel id="CanalJ.fr">4097:0:19:2018:430:1:C00000:0:0:0:</channel><!-- CANAL 4 .c -->
   <channel id="Canale5.it">4097:0:19:374A:6A4:13E:820000:0:0:0:</channel><!-- CANAL 56 .c -->
@@ -20,6 +20,7 @@
   <channel id="Classica.eu">4097:0:19:104A:189C:FBFF:820000:0:0:0:</channel><!-- CLASSICA .b -->
   <channel id="ComedyCentral.ro">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .c -->
   <channel id="ComedyPlus1.it">4097:0:1:38C5:1AF4:FBFF:820000:0:0:0:</channel><!-- COMEDY CENTRAL HD .b -->
+  <channel id="Crime+InvPlus1.uk">4097:0:1:C4CC:811:2:11A0000:0:0:0:</channel><!-- CRIME & INVESTIGATION .b -->
   <channel id="CrimeDistrict.fr">4097:0:1:1C9:26AC:13F:820000:0:0:0:</channel><!-- CRIME DISTRICT .c -->
   <channel id="dazn1.de">4097:0:19:C3A9:271A:F001:FFFF0000:0:0:0:</channel><!-- DAZN F1 .c -->
   <channel id="dazn2.de">4097:0:19:C3AA:2721:F001:FFFF0000:0:0:0:</channel><!-- DAZN 2 .c -->
