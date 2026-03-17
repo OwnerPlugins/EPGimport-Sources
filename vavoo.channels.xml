@@ -4,9 +4,9 @@
   <channel id="4Seven.uk">4097:0:1:20B0:808:2:11A0000:0:0:0:</channel><!-- 4SEVEN .s -->
   <channel id="FiveUSAPlus1.uk">4097:0:1:837:83D:2:11A0000:0:0:0:</channel><!-- 5 USA .b -->
   <channel id="5Select.uk">4097:0:16:4F20:1000:1:D7A0000:0:0:0:</channel><!-- 5SELECT .s -->
+  <channel id="ZEE TV INDIA .s_">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZEE TV INDIA .s -->
   <channel id="star.gr">4097:0:1:141:157C:13E:820000:0:0:0:</channel><!-- 5STAR .s -->
   <channel id="FiveUSA.uk">4097:0:1:836:83D:2:11A0000:0:0:0:</channel><!-- 5USA .s -->
-  <channel id="92News.uk">4097:0:1:1DBA:82D:2:11A0000:0:0:0:</channel><!-- 92 NEWS .b -->
   <channel id="AhlebaitTV.uk">4097:0:1:1DB4:82D:2:11A0000:0:0:0:</channel><!-- AHLEBAIT TV .b -->
   <channel id="AlJazeera.nws">4097:0:19:4272:11:10EF:FFFF0000:0:0:0:</channel><!-- AL JAZEERA HD .b -->
   <channel id="Alibi.uk">4097:0:19:1DB1:82D:2:11A0000:0:0:0:</channel><!-- ALIBI .s -->
@@ -38,7 +38,7 @@
   <channel id="BoomerangPlus1.it">4097:0:1:2C4F:189C:FBFF:820000:0:0:0:</channel><!-- BOOMERANG .b -->
   <channel id="Boomerang.dk">4097:0:16:1F30:19:46:E080000:0:0:0:</channel><!-- BOOMERANG .s -->
   <channel id="BritAsiaTV.uk">4097:0:1:C4D2:811:2:11A0000:0:0:0:</channel><!-- BRIT ASIA TV .b -->
-  <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK .b -->
+  <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK HD .b -->
   <channel id="Cartoonito.ro">4097:0:1:77F6:2C3:600:E080000:0:0:0:</channel><!-- CARTOONITO .s -->
   <channel id="CBBC.uk">4097:0:19:46C0:1000:1:D7A0000:0:0:0:</channel><!-- CBBC .s -->
   <channel id="CBeebies.uk">4097:0:19:4700:1000:1:D7A0000:0:0:0:</channel><!-- CBEEBIES HD .b -->
@@ -52,6 +52,7 @@
   <channel id="Channel7.uk">4097:0:1:5727:82B:2:11A0000:0:0:0:</channel><!-- CHANNEL 7 .b -->
   <channel id="Channels24.uk">4097:0:1:5726:82B:2:11A0000:0:0:0:</channel><!-- CHANNELS 24 .b -->
   <channel id="ITV.uk">4097:0:19:375C:6A4:13E:820000:0:0:0:</channel><!-- ITV .s -->
+  <channel id="ClublandTV.uk">4097:0:1:D749:82F:2:11A0000:0:0:0:</channel><!-- CLUBLAND TV .b -->
   <channel id="CNN.nws">4097:0:16:1EE3:19:46:E080000:0:0:0:</channel><!-- CNN .s -->
   <channel id="Colors.uk">4097:0:19:D7EA:82C:2:11A0000:0:0:0:</channel><!-- COLORS .s -->
   <channel id="ComedyCentral.ro">4097:0:1:77AA:2C2:600:E080000:0:0:0:</channel><!-- COMEDY CENTRAL .s -->
@@ -176,9 +177,11 @@
   <channel id="SikhChannel.uk">4097:0:1:C49F:811:2:11A0000:0:0:0:</channel><!-- SIKH CHANNEL .b -->
   <channel id="Sky1.de">4097:0:19:93:2:85:C00000:0:0:0:</channel><!-- SKY 1 .s -->
   <channel id="SkyArts1.uk">4097:0:19:F7C:7E9:2:11A0000:0:0:0:</channel><!-- SKY ARTS .s -->
+  <channel id="SkyAtlanticPlus1.it">4097:0:19:2D00:19C8:FBFF:820000:0:0:0:</channel><!-- SKY ATLANTIC .b -->
+  <channel id="SkyAtlantic.it">4097:0:1:584:1D4C:FBFF:820000:0:0:0:</channel><!-- SKY ATLANTIC .s -->
   <channel id="SkyCinemaAction.it">4097:0:19:106E:1644:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA ANIMATION .s -->
   <channel id="SkyCinemaComedy.it">4097:0:19:2B16:1A90:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA COMEDY .s -->
-  <channel id="SkyCinemaDrama.it">4097:0:19:1E59:189C:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA DRAMA .s -->
+  <channel id="SkyCinemaDrama.it">4097:0:19:1E59:2008:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA DRAMA .s -->
   <channel id="SkyCinemaFamily.it">4097:0:19:1C57:206C:FBFF:820000:0:0:0:</channel><!-- SKY CINEMA FAMILY .s -->
   <channel id="SkyCinemaHits.de">4097:0:16:29:4:85:C00000:0:0:0:</channel><!-- SKY CINEMA HITS .s -->
   <channel id="SkyCinemaPremieren.de">4097:0:19:83:6:85:C00000:0:0:0:</channel><!-- SKY CINEMA PREMIERE .s -->

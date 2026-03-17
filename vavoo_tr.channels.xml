@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
   <channel id="24.cz">4097:0:16:4B5:76C1:16E:A00000:0:0:0:</channel><!-- 24 .s -->
+  <channel id="ZONGULDAK KANAL Z .b_tr">4097:0:0:0:0:0:0:0:0:0:</channel><!-- ZONGULDAK KANAL Z .b -->
   <channel id="24Kitchen.bg">4097:0:1:1C:25E4:13E:820000:0:0:0:</channel><!-- 24 KITCHEN HD .b -->
   <channel id="CartoonPlus1.it">4097:0:1:2C5B:19C8:FBFF:820000:0:0:0:</channel><!-- CARTOON NETWORK HD .b -->
+  <channel id="DiscoveryPlus1.it">4097:0:1:2C3A:1AF4:FBFF:820000:0:0:0:</channel><!-- DISCOVERY CHANNEL HD+ .b -->
   <channel id="EnglishClubTV.eu">4097:0:19:1E0A:2B:55:300000:0:0:0:</channel><!-- 4K TR ENGLISH CLUB TV .b -->
   <channel id="NatGeo.dk">4097:0:19:1C7D:A:46:E080000:0:0:0:</channel><!-- NATIONAL GEOGRAPHIC HD+ .b -->
   <channel id="NatGeoWild.se">4097:0:19:438:37:A027:FFFF0000:0:0:0:</channel><!-- 4K TR NATIONAL GEOGRAPHIC WILD HD .b -->
   <channel id="RaiNews.it">4097:0:16:44F:46A:4ED8:DDE0000:0:0:0:</channel><!-- A NEWS .s -->
   <channel id="AgroTV.ro">4097:0:1:D48:C:1:E080000:0:0:0:</channel><!-- AGRO TV .c -->
-  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET .s -->
+  <channel id="AnimalPlanet.dk">4097:0:19:1C19:3D:46:E080000:0:0:0:</channel><!-- ANIMAL PLANET HD .b -->
   <channel id="Animaux.fr">4097:0:1:1C6:26AC:13F:820000:0:0:0:</channel><!-- ANIMAUX .b -->
   <channel id="ATV.rs">4097:0:1:675:9FC4:16E:A00000:0:0:0:</channel><!-- ATV .s -->
   <channel id="ATV.be">4097:0:1:D3:2:1:FFFF0000:0:0:0:</channel><!-- ATV SD .b -->
@@ -36,7 +38,6 @@
   <channel id="DaVinciLearning.bg">4097:0:1:66:E:3:130000:0:0:0:</channel><!-- DA VINCI LEARNING .s -->
   <channel id="DITV.it">4097:0:1:259:300F:217C:EEEE0000:0:0:0:</channel><!-- DIM TV .c -->
   <channel id="DiscoveryChannel.cz">4097:0:19:178E:AF6:BB:E080000:0:0:0:</channel><!-- DISCOVERY CHANNEL .s -->
-  <channel id="DiscoveryPlus1.it">4097:0:1:2C3A:1AF4:FBFF:820000:0:0:0:</channel><!-- DISCOVERY CHANNEL HD+ .b -->
   <channel id="InvestigationDiscoveryXTRA.gr">4097:0:1:41E:7:AA:5A0000:0:0:0:</channel><!-- DISCOVERY ID .s -->
   <channel id="DiscoveryScience.be">4097:0:1:C80:2:5E:E080000:0:0:0:</channel><!-- DISCOVERY SCIENCE HD+ .b -->
   <channel id="DisneyChannel.cz">4097:0:1:77EF:2C3:600:E080000:0:0:0:</channel><!-- DISNEY CHANNEL .s -->
@@ -68,6 +69,7 @@
   <channel id="Kanal7.tr">4097:0:1:266:3A:1:FFFF0000:0:0:0:</channel><!-- KANAL 7 HEVC .b -->
   <channel id="Kanal7.tr">4097:0:1:13AE:2710:13E:820000:0:0:0:</channel><!-- KANAL AVRUPA .s -->
   <channel id="KanalD.ro">4097:0:19:760B:2BE:600:E080000:0:0:0:</channel><!-- KANAL D SD .b -->
+  <channel id="ΚreteTV.gr">4097:0:1:3FD:1:AA:5A0000:0:0:0:</channel><!-- KRT TV .s -->
   <channel id="LoveNature.eu">4097:0:19:7927:2C6:600:E080000:0:0:0:</channel><!-- LOVE NATURE HD+ .b -->
   <channel id="PlusTV.it">4097:0:1:64E:2454:13E:820000:0:0:0:</channel><!-- LUYS TV .c -->
   <channel id="Max.no">4097:0:19:2B35:43:46:E080000:0:0:0:</channel><!-- MAX .c -->
