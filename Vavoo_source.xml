@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="latin-1"?>
 <sources>
-  <sourcecat sourcecatname="Vavoo">
+  <sourcecat sourcecatname="Vavoo by Lululla">
     <!-- Albania -->
     <source type="gen_xmltv" channels="vavoo_al.channels.xml">
       <description>Vavoo AL</description>
@@ -45,6 +45,7 @@
     <source type="gen_xmltv" channels="vavoo_it.channels.xml">
       <description>Vavoo IT</description>
       <url>https://raw.githubusercontent.com/Belfagor2005/vavoo-player/master/epg_it.xml</url>
+      <url>https://raw.githubusercontent.com/Belfagor2005/vavoo-player/master/epg_ch.xml</url>
     </source>
     <!-- Netherlands -->
     <source type="gen_xmltv" channels="vavoo_nl.channels.xml">
