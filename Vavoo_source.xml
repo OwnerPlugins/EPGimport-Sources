@@ -6,6 +6,11 @@
       <description>Vavoo AL</description>
       <url>https://raw.githubusercontent.com/Belfagor2005/vavoo-player/master/epg_al.xml</url>
     </source>
+    <!-- Balcani -->
+    <source type="gen_xmltv" channels="vavoo_bk.channels.xml">
+      <description>Vavoo AL</description>
+      <url>https://raw.githubusercontent.com/Belfagor2005/vavoo-player/master/epg_bk.xml</url>
+    </source>
     <!-- Bulgaria -->
     <source type="gen_xmltv" channels="vavoo_bg.channels.xml">
       <description>Vavoo BG</description>
