@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<sources>
 
 <!--
 You can list as many <source> entries in a file as you wish.
@@ -14,7 +13,7 @@ Each source may use a different channels definition, or multiple sources may use
 the same, whatever is convenient.
 The description must be unique for each source, and is displayed on the UI.
 -->
-
+<sources>
 	<sourcecat sourcecatname="TURKEY XMLTV">
 		<source type="gen_xmltv" nocheck="1" channels="https://www.open-epg.com/files/turkey1.xml">
 			<description>Open-EPG - Turkey1 (xml)</description>
