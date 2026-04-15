@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="latin-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <sources>
-	<!--
-Version: 2025-03-26
-	-->
-	<!--
+
+<!--
+Version: 2025-04-07
+-->
+
+<!--
 You can list as many <source> entries in a file as you wish.
 Files or urls for sources and channels ending in '.gz' will be treated as
 gzipped and decompressed while processing.
+Use the nocheck="1" attribute for sources which do not have the LastUpdate.txt file on the website.
 Use the "type" attribute to set the python module that handles the file,
 currently type="gen_xmltv" and type="epg.dat" are supported, more will follow once this plugin
 gets more popular.
@@ -16,6 +19,7 @@ Each source may use a different channels definition, or multiple sources may use
 the same, whatever is convenient.
 The description must be unique for each source, and is displayed on the UI.
 -->
+
 	<mappings>
 		<channel name="rytec.channels.xml.xz">
 			<url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
@@ -23,6 +27,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
 		</channel>
 	</mappings>
+
 	<sourcecat sourcecatname="Rytec General XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>News Channels (xz)</description>
@@ -36,12 +41,14 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.wanwizard.eu/rytecERO.xz</url>
 			<url>http://epg.vuplus-community.net/rytecERO.xz</url>
 		</source>
+<!--		
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>AFN (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecAFN.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecAFN.xz</url>
 			<url>http://epg.vuplus-community.net/rytecAFN.xz</url>
 		</source>
+-->		
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Rytec IPTV XMLTV (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIPTV.xz</url>
@@ -121,6 +128,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecBG.xz</url>
 		</source>
 	</sourcecat>
+
 	<sourcecat sourcecatname="Rytec Ceska/Slovensko XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Slovensko - Bazicky (xz)</description>
@@ -177,7 +185,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecDE_Basic.xz</url>
 		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Osterreich - Basis (xz)</description>
+			<description>Osterreich - Basis  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecAT_Basic.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecAT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecAT_Basic.xz</url>
@@ -189,7 +197,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecCH_Basic.xz</url>
 		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Deutschland/Osterreich/Switzerland - Gemeinsam	 (xz)</description>
+			<description>Deutschland/Osterreich/Switzerland - Gemeinsam  (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecDE_Common.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecDE_Common.xz</url>
 			<url>http://epg.vuplus-community.net/rytecDE_Common.xz</url>
@@ -216,21 +224,13 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecGR_SportMovies.xz</url>
 		</source>
 	</sourcecat>
+
 	<sourcecat sourcecatname="Rytec Italia XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Italia - Basis (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecIT_Basic.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecIT_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecIT_Basic.xz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
-			<description>DTT-SAT Italia</description>
-			<url>http://epg-guide.com/dttsat.xz</url>
-		</source>
-		<!-- <source type="gen_xmltv" channels="rytec.channels.xml.xz"> -->
-		<source type="gen_xmltv" nocheck="1" channels="http://epg-guide.com/epg-guide.channels.xz">
-			<description>DTT-SAT PLUS Italia</description>
-			<url>http://epg-guide.com/epg-guide.channels.xz</url>
 		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Italia - Sky (xz)</description>
@@ -245,6 +245,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecIT_SportMovies.xz</url>
 		</source>
 	</sourcecat>
+
 	<sourcecat sourcecatname="Rytec Portugal XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Portugal (xz)</description>
@@ -253,18 +254,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://epg.vuplus-community.net/rytecPT.xz</url>
 		</source>
 	</sourcecat>
-	<sourcecat sourcecatname="Rytec Magyarorszag XMLTV">
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Magyarorszag - Basic (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecHU_Basic.xz</url>
-			<url>http://epgspot.com/rytec_epg/rytecHU_Basic.xz</url>
-		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>Magyarorszag - Sport/Film (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecHU_SportMovies.xz</url>
-			<url>http://epgspot.com/rytec_epg/rytecHU_SportMovies.xz</url>
-		</source>
-	</sourcecat>
+
 	<sourcecat sourcecatname="Rytec Norge XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Norge - Basic (xz)</description>
@@ -406,39 +396,21 @@ The description must be unique for each source, and is displayed on the UI.
 		</source>
 	</sourcecat>
 
-	<sourcecat sourcecatname="Rytec UK Sat/Virgin XMLTV">
+	<sourcecat sourcecatname="Rytec UK XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>UK/Ireland - FreeSat (xz)</description>
+			<description>UK/Ireland - FreeSat/FTA (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_Basic.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecUK_Basic.xz</url>
 			<url>http://epg.vuplus-community.net/rytecUK_Basic.xz</url>
 		</source>
 
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>UK/Ireland - FTA (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecUK_FTA.xz</url>
-			<url>http://rytecepg.wanwizard.eu/rytecUK_FTA.xz</url>
-			<url>http://epg.vuplus-community.net/rytecUK_FTA.xz</url>
-		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>UK/Ireland - International (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecUK_int.xz</url>
-			<url>http://rytecepg.wanwizard.eu/rytecUK_int.xz</url>
-			<url>http://epg.vuplus-community.net/rytecUK_int.xz</url>
-		</source>
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>UK/Ireland - Sky 1 (Live on sat) (xz)</description>
+			<description>UK/Ireland - Sky (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_SkyLive.xz</url>
 			<url>http://rytecepg.wanwizard.eu/rytecUK_SkyLive.xz</url>
 			<url>http://epg.vuplus-community.net/rytecUK_SkyLive.xz</url>
 		</source>
 
-		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
-			<description>UK/Ireland - Sky 2 (Dead on sat) (xz)</description>
-			<url>http://www.xmltvepg.nl/rytecUK_SkyDead.xz</url>
-			<url>http://rytecepg.wanwizard.eu/rytecUK_SkyDead.xz</url>
-			<url>http://epg.vuplus-community.net/rytecUK_SkyDead.xz</url>
-		</source>
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>UK/Ireland - Sports/Movies (xz)</description>
 			<url>http://www.xmltvepg.nl/rytecUK_SportMovies.xz</url>
@@ -447,123 +419,4 @@ The description must be unique for each source, and is displayed on the UI.
 		</source>
 	</sourcecat>
 
-	<sourcecat sourcecatname="LatinMunic XMLTV">
-		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/rytec.channels.xml.gz">
-			<description>LatinMunic XMLTV Astra</description>
-			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/hispasat.channels.xml.gz">
-			<description>LatinMunic XMLTV Hispasat</description>
-			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/tdt.channels.xml.gz">
-			<description>LatinMunic XMLTV TDT</description>
-			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/todo.channels.xml.gz">
-			<description>LatinMunic XMLTV Astra + Hispasat + TDT</description>
-			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
-		</source>
-	</sourcecat>
-	<sourcecat sourcecatname="Russian XMLTV">
-		<!-- EPG FROM runigma by kil1970 - -->
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-4W.xml.gz">
-			<description>(epg by Igor@K-runigma)- AMOS 4.0W </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-1W.xml.gz">
-			<description>(epg by Igor@K-runigma)- Thor 5/6/7 1.0W </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-49E.xml.gz">
-			<description>(epg by Igor@K-runigma)- SIRIUS 4.9E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-90E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Eutelsat 9.0E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-130E.xml.gz">
-			<description>(epg by Igor@K-runigma)- HOTBIRD 13.0E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-190E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Astra 19.2E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-282E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Astra 2E/2F/2G 28.2E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-315E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Astra 31.5E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-360E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Eutelsat 36B/36C </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-tricolor-360E.xml.gz">
-			<description>(epg by Igor@K-iptvx)- Tricolor </description>
-			<url>http://iptvx.one/epg/epg.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-400E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Express-AM7 40E </description>
-			<url>">http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-460E.xml.gz">
-			<description>(epg by Igor@K-runigma)- AzerSpace 46E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-515E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Belintersat 1  51.5E</description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-530E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Express-AM6 53E</description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-549E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Yamal402 54.9E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-560E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Express-AT1 56E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-600E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Intelsat 60E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-749E.xml.gz">
-			<description>(epg by Igor@K-runigma)- ABS-2/2A 74.9E </description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-852E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Intelsat15 85.2E</description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-900E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Yamal401 90.0E</description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/SAT/channels-965E.xml.gz">
-			<description>(epg by Igor@K-runigma)- Express-AM33 96.5E</description>
-			<url>http://runigma.com.ua/EPG/SAT/epg-sat.xml.gz</url>
-		</source>
-		<source type="gen_xmltv" nocheck="1" channels="http://runigma.com.ua/EPG/IPTV/channels-iptv.xml.gz">
-			<description>(epg by Igor@K-runigma)- IPTV </description>
-			<url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
-		</source>
-	</sourcecat>
-	<sourcecat sourcecatname="Dream EPG">
-		<source type="gen_xmltv" channels="osn.channels.xml.xz" nocheck="1">
-			<description>OSN Channels English (xz)</description>
-			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osnen.xml.xz</url>
-		</source>
-		<source type="gen_xmltv" channels="osn.channels.xml.xz" nocheck="1">
-			<description>OSN Channels Arabic (xz)</description>
-			<url>http://raw.githubusercontent.com/MOHAMED19OS/DZ_EPG/main/osnara.xml.xz</url>
-		</source>
-	</sourcecat>
 </sources>
