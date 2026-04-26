@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+  <sourcecat sourcecatname="Vavoo">
+    <source type="gen_xmltv" channels="vavoo_al.channels.xml">
+      <description>Vavoo AL</description>
+      <url>http://127.0.0.1:4323/epg/al.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_bg.channels.xml">
+      <description>Vavoo BG</description>
+      <url>http://127.0.0.1:4323/epg/bg.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_bk.channels.xml">
+      <description>Vavoo BK</description>
+      <url>http://127.0.0.1:4323/epg/bk.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_de.channels.xml">
+      <description>Vavoo DE</description>
+      <url>http://127.0.0.1:4323/epg/de.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_es.channels.xml">
+      <description>Vavoo ES</description>
+      <url>http://127.0.0.1:4323/epg/es.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_fr.channels.xml">
+      <description>Vavoo FR</description>
+      <url>http://127.0.0.1:4323/epg/fr.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_hr.channels.xml">
+      <description>Vavoo HR</description>
+      <url>http://127.0.0.1:4323/epg/hr.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_it.channels.xml">
+      <description>Vavoo IT</description>
+      <url>http://127.0.0.1:4323/epg/it.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_nl.channels.xml">
+      <description>Vavoo NL</description>
+      <url>http://127.0.0.1:4323/epg/nl.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_pl.channels.xml">
+      <description>Vavoo PL</description>
+      <url>http://127.0.0.1:4323/epg/pl.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_pt.channels.xml">
+      <description>Vavoo PT</description>
+      <url>http://127.0.0.1:4323/epg/pt.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_ro.channels.xml">
+      <description>Vavoo RO</description>
+      <url>http://127.0.0.1:4323/epg/ro.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_ru.channels.xml">
+      <description>Vavoo RU</description>
+      <url>http://127.0.0.1:4323/epg/ru.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_sa.channels.xml">
+      <description>Vavoo SA</description>
+      <url>http://127.0.0.1:4323/epg/sa.xml</url>
+    </source>
+    <source type="gen_xmltv" channels="vavoo_tr.channels.xml">
+      <description>Vavoo TR</description>
+      <url>http://127.0.0.1:4323/epg/tr.xml</url>
+    </source>
+  </sourcecat>
+</sources>
