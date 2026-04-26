@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<channels>
-  <channel id="Canal24Horas.es">4097:0:16:27E0:66:1:FFFF0000:0:0:0:</channel><!-- CANAL 24 HORAS .c -->
-  <channel id="ETB1.es">4097:0:1:B88:51A4:55F:DDE0000:0:0:0:</channel><!-- ETB 1 .c -->
-  <channel id="ETB2.es">4097:0:1:1F8:64:33:DDDD0000:0:0:0:HTTP%3A//:</channel><!-- ETB 2 .c -->
-  <channel id="EITBBasque.es">4097:0:1:1F9:64:33:DDDD0000:0:0:0:HTTP%3A//:</channel><!-- ETB BASQUE .c -->
-  <channel id="Telesur.es">4097:0:1:190D:40:36:FFFF0000:0:0:0:</channel><!-- TELE SAFOR .c -->
-</channels>
